@@ -1,0 +1,1813 @@
+{ "intents": [
+   {
+    "class": "Citizenship",
+    "question_variations": [
+      "How can someone become an Indian citizen?",
+      "What are the requirements for Indian citizenship?",
+      "Can you explain the process of obtaining Indian citizenship?",
+      "I'm curious, what are the ways to become an Indian citizen?",
+      "Hey, can you tell me how to qualify for Indian citizenship?"
+    ],
+    "responses": [
+      "Sure! According to Articles 5 to 10 of the Constitution, citizenship at the commencement of the Constitution is defined based on birth in India, parentage, or residency. Certain provisions also apply to those who migrated to India from Pakistan.",
+      "To become an Indian citizen, one must be born in India, or either of the parents must be a citizen of India, or one must have resided in India for a specified period as per the Citizenship Act, 1955.",
+      "The process of obtaining Indian citizenship involves fulfilling certain criteria such as birth in India, descent, or residency. It may also require submitting an application and supporting documents to the concerned authorities.",
+      "There are various ways to become an Indian citizen, including by birth, descent, registration, or naturalization. Each method has its own set of eligibility criteria and requirements.",
+      "Qualifying for Indian citizenship depends on factors like birth, descent, or residency. The Constitution and the Citizenship Act, 1955, outline the eligibility criteria and the process for obtaining citizenship."
+    ]
+  },
+  {
+    "class": "FundamentalRights",
+    "question_variations": [
+      "What's the deal with fundamental rights?",
+      "Hey, can you give me a rundown on fundamental rights?",
+      "I've heard about fundamental rights, what are they exactly?",
+      "Can you explain the fundamental rights guaranteed by the Constitution?",
+      "What rights do we get under the Constitution?"
+    ],
+    "responses": [
+      "Fundamental rights, as outlined in Articles 12 to 35 of the Constitution, are basic rights that are guaranteed to all citizens of India. These rights include the right to equality, right to freedom, right against exploitation, right to freedom of religion, cultural and educational rights, and right to constitutional remedies.",
+      "Fundamental rights are the basic rights guaranteed to every citizen by the Constitution of India. They include the right to equality, right to freedom, right against exploitation, right to freedom of religion, cultural and educational rights, and right to constitutional remedies.",
+      "Fundamental rights are the essential rights guaranteed to all citizens of India under the Constitution. These rights ensure equality, freedom, and justice for all individuals.",
+      "The fundamental rights guaranteed by the Constitution include the right to equality, right to freedom, right against exploitation, right to freedom of religion, cultural and educational rights, and right to constitutional remedies.",
+      "Under the Constitution, citizens are granted fundamental rights such as the right to equality, right to freedom, right against exploitation, right to freedom of religion, cultural and educational rights, and right to constitutional remedies."
+    ]
+  },
+  {
+    "class": "ProhibitionOfTrafficInHumanBeingsAndForcedLabour",
+    "question_variations": [
+      "What are the rules regarding child labor?",
+      "Is it legal to make children work in India?",
+      "Can you explain the laws prohibiting child labor?",
+      "Hey, can you tell me if it's okay for minors to work?",
+      "What's the deal with child labor in India?"
+    ],
+    "responses": [
+      "According to Article 24 of the Constitution, no child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment.",
+      "Child labor is strictly prohibited in India under Article 24 of the Constitution, which prohibits the employment of children below the age of fourteen years in any factory, mine, or hazardous occupation.",
+      "The Constitution prohibits child labor under Article 24, which states that no child below the age of fourteen years shall be employed to work in any factory, mine, or hazardous employment.",
+      "In India, child labor is prohibited under Article 24 of the Constitution, which prohibits the employment of children below the age of fourteen years in any factory, mine, or hazardous occupation.",
+      "Child labor is strictly prohibited in India under Article 24 of the Constitution, which ensures that no child below the age of fourteen years shall be employed in any factory, mine, or hazardous occupation."
+    ]
+  },
+  {
+    "class": "FreedomOfReligion",
+    "question_variations": [
+      "Can I practice any religion freely?",
+      "What are my rights regarding religious freedom?",
+      "Hey, do I have the right to choose my religion?",
+      "Is there religious freedom in India?",
+      "Can I follow any religion I want?"
+    ],
+    "responses": [
+      "Articles 25 and 26 of the Constitution ensure that everyone has the right to freely profess, practice, and propagate their religion, subject to public order, morality, and health.",
+      "Yes, you have the right to practice any religion freely under Articles 25 and 26 of the Constitution, which guarantee the freedom of conscience and the right to freely profess, practice, and propagate religion, subject to certain restrictions.",
+      "Absolutely! The Constitution guarantees your right to choose and practice your religion freely under Articles 25 and 26, which protect the freedom of conscience and the right to freely profess, practice, and propagate religion.",
+      "Yes, religious freedom is a fundamental right guaranteed by the Constitution of India under Articles 25 and 26. Individuals have the right to practice and propagate their religion freely.",
+      "Yes, you have the right to follow any religion of your choice as guaranteed by Articles 25 and 26 of the Constitution, which ensure the freedom of conscience and the right to freely profess, practice, and propagate religion."
+    ]
+  },
+  {
+    "class": "CulturalAndEducationalRights",
+    "question_variations": [
+      "Can I establish a school promoting my culture?",
+      "What if I want to start an educational institution based on my language?",
+      "Hey, do I have the right to start a school that promotes my culture and language?",
+      "Can schools refuse admission based on language or religion?",
+      "What are my rights if I belong to a minority community?"
+    ],
+    "responses": [
+      "According to Articles 29 and 30 of the Constitution, no citizen shall be denied admission into any educational institution maintained by the State or receiving aid out of State funds on grounds only of religion, race, caste, language, or any of them. All minorities have the right to establish and administer educational institutions of their choice.",
+      "Yes, you have the right to establish an educational institution promoting your culture under Article 29, which protects the cultural and educational rights of minorities.",
+      "Absolutely! Article 29 of the Constitution guarantees your right to establish and administer educational institutions promoting your culture and language.",
+      "Schools cannot refuse admission based on language or religion according to Articles 29 and 30 of the Constitution, which protect the rights of minorities to establish and administer educational institutions of their choice.",
+      "If you belong to a minority community, you have the right to establish and administer educational institutions of your choice under Articles 29 and 30 of the Constitution, which protect cultural and educational rights."
+    ]
+  },
+  {
+    "class": "ProhibitionOfTrafficInHumanBeingsAndForcedLabour",
+    "question_variations": [
+      "Can minors be made to work under any circumstances?",
+      "Is child labor ever acceptable?",
+      "What if a child wants to work, is it allowed?",
+      "Can someone be compelled to work against their will?",
+      "Hey, can you tell me if child labor is ever justified?"
+    ],
+    "responses": [
+      "According to Article 24 of the Constitution, no child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment.",
+      "Child labor is strictly prohibited in India under Article 24 of the Constitution, which prohibits the employment of children below the age of fourteen years in any factory, mine, or hazardous occupation.",
+      "The Constitution prohibits child labor under Article 24, which states that no child below the age of fourteen years shall be employed to work in any factory, mine, or hazardous employment.",
+      "In India, child labor is prohibited under Article 24 of the Constitution, which prohibits the employment of children below the age of fourteen years in any factory, mine, or hazardous occupation.",
+      "Child labor is strictly prohibited in India under Article 24 of the Constitution, which ensures that no child below the age of fourteen years shall be employed in any factory, mine, or hazardous occupation."
+    ]
+  },
+  {
+    "class": "FreedomOfReligion",
+    "question_variations": [
+      "Can someone be forced to follow a particular religion?",
+      "Is it legal to compel someone to convert to another religion?",
+      "What rights do I have regarding my religious beliefs?",
+      "Can I practice my religion freely without any restrictions?",
+      "Hey, do I have the right to choose my religion?"
+    ],
+    "responses": [
+      "Articles 25 and 26 of the Constitution ensure that everyone has the right to freely profess, practice, and propagate their religion, subject to public order, morality, and health.",
+      "Yes, you have the right to practice any religion freely under Articles 25 and 26 of the Constitution, which guarantee the freedom of conscience and the right to freely profess, practice, and propagate religion, subject to certain restrictions.",
+      "Absolutely! The Constitution guarantees your right to choose and practice your religion freely under Articles 25 and 26, which protect the freedom of conscience and the right to freely profess, practice, and propagate religion.",
+      "Yes, religious freedom is a fundamental right guaranteed by the Constitution of India under Articles 25 and 26. Individuals have the right to practice and propagate their religion freely.",
+      "Yes, you have the right to follow any religion of your choice as guaranteed by Articles 25 and 26 of the Constitution, which ensure the freedom of conscience and the right to freely profess, practice, and propagate religion."
+    ]
+  },
+  {
+    "class": "CulturalAndEducationalRights",
+    "question_variations": [
+      "Can someone be denied admission to a school based on their religion?",
+      "Is it legal for schools to refuse admission based on language?",
+      "What are my rights if I belong to a minority community?",
+      "Can I establish my own educational institution based on my culture?",
+      "Hey, do I have the right to start a school that promotes my language and culture?"
+    ],
+    "responses": [
+      "According to Articles 29 and 30 of the Constitution, no citizen shall be denied admission into any educational institution maintained by the State or receiving aid out of State funds on grounds only of religion, race, caste, language, or any of them. All minorities have the right to establish and administer educational institutions of their choice.",
+      "Yes, you have the right to establish an educational institution promoting your culture under Article 29, which protects the cultural and educational rights of minorities.",
+      "Absolutely! Article 29 of the Constitution guarantees your right to establish and administer educational institutions promoting your culture and language.",
+      "Schools cannot refuse admission based on language or religion according to Articles 29 and 30 of the Constitution, which protect the rights of minorities to establish and administer educational institutions of their choice.",
+      "If you belong to a minority community, you have the right to establish and administer educational institutions of your choice under Articles 29 and 30 of the Constitution, which protect cultural and educational rights."
+    ]
+  },
+  {
+    "class": "ProhibitionOfTrafficInHumanBeingsAndForcedLabour",
+    "question_variations": [
+      "What happens if someone violates the laws against child labor?",
+      "Is there punishment for employing children?",
+      "What are the consequences of forcing a child to work?",
+      "Can someone be fined for making a child work?",
+      "Hey, what happens if someone employs a child illegally?"
+    ],
+    "responses": [
+      "Violating the laws against child labor is a punishable offense under Indian law. Penalties may include fines and imprisonment.",
+      "Employing children below the age of fourteen years is a violation of Article 24 of the Constitution and is punishable by law. Offenders may face fines and imprisonment.",
+      "Forcing a child to work is a serious offense punishable under Indian law. The penalties may include fines and imprisonment.",
+      "Yes, there are strict penalties for employing children illegally. Offenders may face fines and imprisonment as per the provisions of the law.",
+      "Employing a child illegally is a violation of the law and can result in penalties such as fines and imprisonment."
+    ]
+  },
+  {
+    "class": "FreedomOfReligion",
+    "question_variations": [
+      "What if someone tries to force me to convert to another religion?",
+      "Can I be compelled to change my religion?",
+      "Is it legal for someone to pressure me to convert to a different religion?",
+      "Hey, can someone force me to change my religion against my will?",
+      "What are my rights if someone tries to coerce me into converting to another religion?"
+    ],
+    "responses": [
+      "Forcing someone to convert to another religion is a violation of their fundamental rights as guaranteed by Articles 25 and 26 of the Constitution. You have the right to freely profess, practice, and propagate your religion.",
+      "No one can compel you to change your religion against your will. It is your fundamental right to practice your religion freely under Articles 25 and 26 of the Constitution.",
+      "Pressuring someone to convert to another religion is illegal and against their fundamental rights under the Constitution. You have the right to practice your religion freely without any coercion.",
+      "Under the Constitution, no one can force you to change your religion against your will. You have the right to freely profess, practice, and propagate your religion as per Articles 25 and 26.",
+      "If someone tries to coerce you into converting to another religion, it's a violation of your rights under the Constitution. You have the right to practice your religion freely without any external pressure."
+    ]
+  },
+  {
+    "class": "CulturalAndEducationalRights",
+    "question_variations": [
+      "What if someone discriminates against me based on my religion or language?",
+      "Can someone deny me admission to an educational institution because of my religion?",
+      "Is it legal to refuse admission based on language?",
+      "Hey, can someone refuse to admit me to a school because of my cultural background?",
+      "What are my rights if I face discrimination in education?"
+    ],
+    "responses": [
+      "No one can deny you admission to an educational institution based on your religion, race, caste, language, or any other such grounds. It's your constitutional right as per Articles 29 and 30.",
+      "Refusing admission based on religion or language is illegal under the Constitution. Articles 29 and 30 ensure that no citizen is denied admission into any educational institution on such grounds.",
+      "It is against the law to refuse admission to an educational institution based on language or religion. Articles 29 and 30 of the Constitution protect individuals from such discrimination.",
+      "Discrimination based on cultural background is prohibited under Articles 29 and 30 of the Constitution. No one can deny you admission to a school based on your cultural background.",
+      "If you face discrimination in education based on your religion, language, or culture, you have the right to challenge it as per the provisions of the Constitution."
+    ]
+  },
+ {
+    "class": "CompulsoryAcquisitionOfProperty",
+    "question_variations": [
+      "Can the government acquire property without consent?",
+      "Is compulsory acquisition of property allowed?",
+      "What are the rules regarding the acquisition of property by the government?",
+      "Hey, can the government take away someone's property against their will?",
+      "Under what circumstances can the government acquire property without permission?"
+    ],
+    "responses": [
+      "The Constitution, through the Forty-fourth Amendment Act, 1978, prohibits compulsory acquisition of property without consent.",
+      "Compulsory acquisition of property is no longer permitted under the Constitution since the enactment of the Forty-fourth Amendment Act, 1978.",
+      "The Constitution, after the Forty-fourth Amendment Act, 1978, does not allow for compulsory acquisition of property without consent.",
+      "Since the enactment of the Forty-fourth Amendment Act, 1978, the government cannot acquire property without the owner's consent as per the Constitution.",
+      "Compulsory acquisition of property without consent is prohibited under the Constitution, following the Forty-fourth Amendment Act, 1978."
+    ]
+  },
+  {
+    "class": "SavingOfCertainLaws",
+    "question_variations": [
+      "What laws are saved despite the provisions of Article 13?",
+      "Can certain laws override the restrictions of Article 13?",
+      "Are there any exceptions to the laws under Article 13?",
+      "Hey, which laws are exempted from the restrictions of Article 13?",
+      "Under what circumstances can laws bypass the limitations of Article 13?"
+    ],
+    "responses": [
+      "Certain laws, despite Article 13, are saved from being void as per Article 31A of the Constitution.",
+      "Article 31A of the Constitution saves certain laws from being void, overriding the restrictions of Article 13.",
+      "Article 31A provides exceptions to laws that would otherwise be void under Article 13 of the Constitution.",
+      "Laws exempted from the restrictions of Article 13 are saved by Article 31A of the Constitution.",
+      "Article 31A of the Constitution outlines conditions under which laws can bypass the limitations of Article 13."
+    ]
+  },
+  {
+    "class": "DirectivePrinciplesOfStatePolicy",
+    "question_variations": [
+      "What are the Directive Principles of State Policy?",
+      "Can you explain the principles of state policy?",
+      "What is the significance of the Directive Principles in governance?",
+      "Hey, what role do the Directive Principles play in the governance of the country?",
+      "Can you elaborate on the objectives of the State as outlined in the Directive Principles?"
+    ],
+    "responses": [
+      "Directive Principles of State Policy are guidelines for the government to establish a just society.",
+      "The Directive Principles of State Policy provide a framework for the government to promote welfare and justice.",
+      "The Directive Principles of State Policy are fundamental in guiding the governance towards ensuring social, economic, and political justice.",
+      "The Directive Principles of State Policy serve as guiding principles for the government to promote the welfare of the people and establish a just society.",
+      "The Directive Principles of State Policy outline the objectives of the State to promote the welfare of the people and establish a just social order."
+    ]
+  },
+  {
+    "class": "DirectivePrinciplesOfStatePolicy",
+    "question_variations": [
+      "Are the Directive Principles enforceable by courts?",
+      "Can individuals approach the courts to enforce Directive Principles?",
+      "Do courts have the authority to enforce the Directive Principles?",
+      "Hey, can citizens seek legal remedies to enforce the Directive Principles?",
+      "Under what circumstances can the courts enforce the Directive Principles?"
+    ],
+    "responses": [
+      "Directive Principles of State Policy are not enforceable by courts but are fundamental in governance.",
+      "No, individuals cannot directly approach courts to enforce Directive Principles, but they guide legislative and executive actions.",
+      "Courts do not have the authority to enforce the Directive Principles directly, but they influence legislation and policies.",
+      "Citizens cannot seek direct legal remedies to enforce Directive Principles, but they can petition for laws and policies aligned with them.",
+      "Courts cannot enforce the Directive Principles directly, but they play a role in ensuring legislative and executive actions are in line with them."
+    ]
+  },
+  {
+    "class": "DirectivePrinciplesOfStatePolicy",
+    "question_variations": [
+      "What is the duty of the State regarding the Directive Principles?",
+      "What obligations does the State have towards the Directive Principles?",
+      "Is the State bound to follow the Directive Principles?",
+      "Hey, does the government have a responsibility to implement the Directive Principles?",
+      "Under what circumstances is the State obligated to adhere to the Directive Principles?"
+    ],
+    "responses": [
+      "It is the duty of the State to apply the Directive Principles in making laws and policies, although they are not legally enforceable.",
+      "The State has an obligation to apply the Directive Principles in governance, although they are not justiciable.",
+      "While not legally bound, the State is morally obligated to follow the Directive Principles in governance.",
+      "The government has a responsibility to implement policies in line with the Directive Principles to promote welfare and justice.",
+      "The State is obligated to adhere to the Directive Principles in governance to ensure the welfare and well-being of the people."
+    ]
+  },
+  {
+    "class": "RightToConstitutionalRemedies",
+    "question_variations": [
+      "What are the remedies available for enforcement of rights under the Constitution?",
+      "Can individuals seek remedies for violation of constitutional rights?",
+      "Are there legal measures to enforce constitutional rights?",
+      "Hey, what actions can individuals take to enforce their constitutional rights?",
+      "Under what circumstances can individuals seek constitutional remedies?"
+    ],
+    "responses": [
+      "The right to move the Supreme Court is guaranteed for the enforcement of rights conferred by the Constitution.",
+      "Individuals can approach the Supreme Court for remedies to enforce their constitutional rights.",
+      "The Supreme Court has the power to issue writs and orders for the enforcement of constitutional rights.",
+      "Individuals can seek legal remedies, including writs like habeas corpus, mandamus, etc., to enforce their constitutional rights.",
+      "Individuals can approach the Supreme Court through appropriate proceedings to seek enforcement of their rights as guaranteed by the Constitution."
+    ]
+  },
+  {
+    "class": "RightToConstitutionalRemedies",
+    "question_variations": [
+      "What powers does the Supreme Court have to enforce constitutional rights?",
+      "Can the Supreme Court issue orders to enforce constitutional rights?",
+      "Do individuals have access to legal recourse for violation of their constitutional rights?",
+      "Hey, what authority does the Supreme Court have to protect constitutional rights?",
+      "Under what circumstances can the Supreme Court intervene to protect constitutional rights?"
+    ],
+    "responses": [
+      "The Supreme Court has the power to issue various writs, including habeas corpus, mandamus, prohibition, etc., to enforce constitutional rights.",
+      "Yes, the Supreme Court can issue orders and directions to enforce the fundamental rights guaranteed by the Constitution.",
+      "Individuals have access to legal recourse through the Supreme Court for the protection of their constitutional rights.",
+      "The Supreme Court has the authority to protect constitutional rights through the issuance of appropriate orders and judgments.",
+      "The Supreme Court can intervene to protect constitutional rights whenever there is a violation or threat to such rights."
+    ]
+  },
+  {
+    "class": "RightToConstitutionalRemedies",
+    "question_variations": [
+      "Can Parliament empower other courts to enforce constitutional rights?",
+      "Is Parliament authorized to delegate the enforcement of constitutional rights to lower courts?",
+      "Hey, can other courts besides the Supreme Court enforce constitutional rights?",
+      "Under what circumstances can Parliament empower lower courts to enforce constitutional rights?",
+      "What measures can Parliament take to extend the enforcement of constitutional rights to other courts?"
+    ],
+    "responses": [
+      "Parliament may empower other courts, within their jurisdiction, to exercise powers similar to those of the Supreme Court for the enforcement of constitutional rights.",
+      "Yes, Parliament can authorize lower courts to exercise powers for the enforcement of constitutional rights within their respective jurisdictions.",
+      "Besides the Supreme Court, other courts may also be empowered to enforce constitutional rights as authorized by Parliament.",
+      "Parliament can empower lower courts to enforce constitutional rights by enacting suitable legislation.",
+      "Parliament can extend the enforcement of constitutional rights to other courts by delegating appropriate powers through legislation."
+    ]
+  },
+  {
+    "class": "DirectivePrinciplesOfStatePolicy",
+    "question_variations": [
+      "Can the government enact laws to promote social justice?",
+      "Is the government empowered to legislate for the promotion of social justice?",
+      "Hey, does the government have the authority to make laws to ensure social justice?",
+      "Under what circumstances can the government pass laws to promote social justice?",
+      "What measures can the government take to legislate for social justice?"
+    ],
+    "responses": [
+      "Yes, the government can enact laws to promote social justice as part of its obligation under the Directive Principles of State Policy.",
+      "The government has the authority to legislate for the promotion of social justice in line with the Directive Principles of State Policy.",
+      "The government is empowered to make laws aimed at ensuring social justice as per its constitutional mandate.",
+      "The government can pass laws to promote social justice whenever it deems necessary to fulfill its constitutional obligations.",
+      "To promote social justice, the government can enact laws addressing various social and economic issues as outlined in the Directive Principles."
+    ]
+  },
+  {
+    "class": "DirectivePrinciplesOfStatePolicy",
+    "question_variations": [
+      "What role does the State play in promoting economic equality?",
+      "Is the State responsible for ensuring economic equality?",
+      "Hey, does the government have a role in promoting economic equality?",
+      "Under what circumstances does the government work towards economic equality?",
+      "What measures can the government take to promote economic equality?"
+    ],
+    "responses": [
+      "The State has a role in promoting economic equality as part of its obligation under the Directive Principles of State Policy.",
+      "Yes, the State is responsible for ensuring economic equality as per the Directive Principles of State Policy.",
+      "The government plays a crucial role in promoting economic equality to fulfill its constitutional mandate.",
+      "The government works towards economic equality to ensure fair distribution of resources and opportunities.",
+      "To promote economic equality, the government can implement policies aimed at reducing income disparities and providing equal opportunities."
+    ]
+  },
+  {
+    "class": "RightToConstitutionalRemedies",
+    "question_variations": [
+      "What actions can individuals take if their constitutional rights are violated?",
+      "Can individuals seek legal redress for violations of their constitutional rights?",
+      "Hey, what recourse do individuals have if their constitutional rights are infringed upon?",
+      "Under what circumstances can individuals take legal action for violation of their constitutional rights?",
+      "What measures are available to individuals to address violations of their constitutional rights?"
+    ],
+    "responses": [
+      "Individuals can seek legal remedies, including approaching the courts, if their constitutional rights are violated.",
+      "Yes, individuals have the right to seek legal redress through appropriate legal channels for violations of their constitutional rights.",
+      "If their constitutional rights are infringed upon, individuals can seek recourse through legal means, such as filing petitions in the courts.",
+      "Individuals can take legal action for violation of their constitutional rights whenever they believe their rights have been unlawfully infringed upon.",
+      "To address violations of their constitutional rights, individuals can resort to legal measures, including filing lawsuits and seeking court intervention."
+    ]
+  },
+{
+    "class": "FundamentalDuties",
+    "question_variations": [
+      "What are the fundamental duties of every citizen of India?",
+      "Can you list the fundamental duties according to the Indian Constitution?",
+      "Hey, what are the duties every citizen of India must follow?"
+    ],
+    "responses": [
+      "The fundamental duties of every citizen of India are listed in Article 51A of the Indian Constitution.",
+      "According to the Indian Constitution, every citizen has fundamental duties outlined in Article 51A.",
+      "The Constitution of India mandates certain fundamental duties for every citizen, detailed in Article 51A."
+    ]
+  },
+  {
+    "class": "AbidingConstitution",
+    "question_variations": [
+      "Do citizens of India have to abide by the Constitution?",
+      "Is it mandatory for Indian citizens to respect the Constitution?",
+      "Should I follow the ideals and institutions of the Indian Constitution?"
+    ],
+    "responses": [
+      "Yes, every citizen of India is required to abide by the Constitution and respect its ideals and institutions.",
+      "Respecting the Constitution and its ideals is a fundamental duty of every citizen of India.",
+      "It is mandatory for citizens of India to follow the ideals and institutions of the Indian Constitution."
+    ]
+  },
+  {
+    "class": "CherishingNobleIdeals",
+    "question_variations": [
+      "Why is it important to cherish noble ideals according to the Indian Constitution?",
+      "What noble ideals inspired the national struggle for freedom in India?",
+      "Can you explain the concept of cherishing noble ideals in the Indian context?"
+    ],
+    "responses": [
+      "Cherishing noble ideals is important as they inspired our national struggle for freedom.",
+      "The noble ideals that inspired the national struggle for freedom in India should be cherished and followed by every citizen.",
+      "According to the Indian Constitution, citizens are required to cherish and follow the noble ideals that inspired our national struggle for freedom."
+    ]
+  },
+  {
+    "class": "ProtectingSovereigntyUnityIntegrity",
+    "question_variations": [
+      "Why is it essential to uphold and protect the sovereignty, unity, and integrity of India?",
+      "What are the reasons behind the duty to protect the sovereignty, unity, and integrity of India?",
+      "Can you explain the significance of safeguarding the sovereignty, unity, and integrity of India?"
+    ],
+    "responses": [
+      "Upholding and protecting the sovereignty, unity, and integrity of India is essential for national security and stability.",
+      "Safeguarding the sovereignty, unity, and integrity of India is necessary to maintain the country's independence and strength.",
+      "It is significant to protect the sovereignty, unity, and integrity of India to ensure the nation's prosperity and progress."
+    ]
+  },
+  {
+    "class": "NationalService",
+    "question_variations": [
+      "Can citizens of India be called upon to defend the country?",
+      "Is rendering national service mandatory for citizens of India?",
+      "What does it mean to render national service when called upon to do so?"
+    ],
+    "responses": [
+      "Yes, citizens of India may be called upon to defend the country and render national service when necessary.",
+      "Rendering national service is a duty of every citizen of India when called upon to defend the country.",
+      "Citizens of India are obligated to render national service, including defending the country, when the need arises."
+    ]
+  },
+  {
+    "class": "PromotingHarmony",
+    "question_variations": [
+      "Why is it important to promote harmony among all people in India?",
+      "Can you explain the significance of promoting harmony in a diverse country like India?",
+      "What role does promoting harmony play in the progress of India?"
+    ],
+    "responses": [
+      "Promoting harmony is crucial for fostering unity and peace among the diverse population of India.",
+      "In a diverse country like India, promoting harmony is essential for social cohesion and progress.",
+      "Promoting harmony among all people in India is necessary for the overall development and prosperity of the nation."
+    ]
+  },
+  {
+    "class": "RenouncingDerogatoryPractices",
+    "question_variations": [
+      "Should citizens of India renounce practices derogatory to the dignity of women?",
+      "Is it mandatory to abstain from practices that degrade the dignity of women in India?",
+      "What are the consequences of not renouncing practices derogatory to the dignity of women?"
+    ],
+    "responses": [
+      "Yes, citizens of India are required to renounce practices derogatory to the dignity of women.",
+      "Abstaining from practices that degrade the dignity of women is mandatory for citizens of India.",
+      "Failure to renounce practices derogatory to the dignity of women goes against the fundamental duties outlined in the Indian Constitution."
+    ]
+  },
+  {
+    "class": "ValuingCompositeCulture",
+    "question_variations": [
+      "Why should citizens of India value and preserve the rich heritage of our composite culture?",
+      "What is the significance of preserving the composite culture of India?",
+      "Can you explain why it's important to value the rich heritage of India's composite culture?"
+    ],
+    "responses": [
+      "Valuing and preserving the rich heritage of our composite culture is essential for maintaining the country's cultural identity and diversity.",
+      "Preserving the composite culture of India is crucial for fostering national unity and harmony.",
+      "It's important to value the rich heritage of India's composite culture as it reflects the country's pluralistic ethos and historical legacy."
+    ]
+  },
+  {
+    "class": "ProtectingEnvironment",
+    "question_variations": [
+      "Why is it necessary to protect and improve the natural environment in India?",
+      "Why should I protect My Environment",
+      "What role do citizens play in safeguarding the environment in India?",
+      "Can you explain the importance of having compassion for living creatures in the context of environmental protection?"
+    ],
+    "responses": [
+      "Protecting and improving the natural environment in India is crucial for ecological sustainability and the well-being of future generations.",
+      "Citizens play a vital role in safeguarding the environment by promoting conservation efforts and sustainable practices.",
+      "Having compassion for living creatures is important for fostering a sense of responsibility towards environmental conservation and animal welfare."
+    ]
+  },
+  {
+    "class": "DevelopingScientificTemper",
+    "question_variations": [
+      "What is the significance of developing the scientific temper among citizens of India?",
+      "Why is it important for citizens to embrace humanism and the spirit of inquiry and reform?",
+      "Can you explain the role of scientific temper in the progress of India?"
+    ],
+    "responses": [
+      "Developing the scientific temper among citizens of India is essential for fostering critical thinking, innovation, and progress.",
+      "Embracing humanism and the spirit of inquiry and reform is important for promoting rationality, social justice, and intellectual advancement.",
+      "The scientific temper plays a crucial role in driving technological advancements, economic growth, and societal development in India."
+    ]
+  },
+  {
+    "class": "SafeguardingPublicProperty",
+    "question_variations": [
+      "Why is it important to safeguard public property in India?",
+      "What constitutes violence, and why should citizens abjure violence?",
+      "Can you explain the significance of safeguarding public property in India?"
+    ],
+    "responses": [
+      "Safeguarding public property in India is essential for ensuring the equitable distribution of resources and promoting the common good.",
+      "Abjuring violence is necessary for maintaining social harmony, resolving conflicts peacefully, and upholding the rule of law.",
+      "Protecting public property is significant as it contributes to the overall development and welfare of society."
+    ]
+  },
+  {
+    "class": "StrivingTowardsExcellence",
+    "question_variations": [
+      "Why should citizens strive towards excellence in all spheres of activity?",
+      "What does it mean for a nation to constantly rise to higher levels of endeavor and achievement?",
+      "Can you explain the role of individual and collective excellence in the progress of India?"
+    ],
+    "responses": [
+      "Striving towards excellence in all spheres of activity is essential for driving innovation, competitiveness, and national development.",
+      "A nation constantly rising to higher levels of endeavor and achievement signifies progress, growth, and the pursuit of excellence in diverse fields.",
+      "Individual and collective excellence play a pivotal role in shaping the future trajectory and global standing of India."
+    ]
+  },
+  {
+    "class": "ProvidingEducationOpportunities",
+    "question_variations": [
+      "Is it mandatory for parents or guardians to provide education opportunities to children in India?",
+      "What are the responsibilities of parents or guardians regarding the education of children in India?",
+      "Can you explain the significance of providing education opportunities to children in India?"
+    ],
+    "responses": [
+      "Parents or guardians in India are obligated to provide education opportunities to children between the ages of six and fourteen years.",
+      "Ensuring education opportunities for children is a fundamental duty of parents or guardians in India, as mandated by the Constitution.",
+      "Providing education opportunities to children is crucial for ensuring their holistic development, empowerment, and future prospects in India."
+    ]
+  },
+  {
+    "class": "PresidentOfIndia",
+    "question_variations": [
+      "Who is the President of India?",
+      "Can you provide information about the President of India?",
+      "What are the roles and responsibilities of the President of India?"
+    ],
+    "responses": [
+      "The President of India is the ceremonial head of state and the highest constitutional authority in the country.",
+      "The President of India is elected by an electoral college consisting of elected members of Parliament and State Legislatures.",
+      "The President of India performs various functions, including executive, legislative, judicial, and ceremonial duties, as prescribed by the Constitution."
+    ]
+  },
+  {
+    "class": "ExecutivePowerOfUnion",
+    "question_variations": [
+      "What is the executive power of the Union in India?",
+      "Can you explain how the executive power of the Union is vested?",
+      "Who exercises the executive power of the Union according to the Indian Constitution?"
+    ],
+    "responses": [
+      "The executive power of the Union in India is vested in the President and is exercised either directly or through officers subordinate to the President.",
+      "The President of India exercises the executive power of the Union, as per the provisions of the Indian Constitution.",
+      "The executive power of the Union includes various functions related to governance, administration, and implementation of laws at the national level in India."
+    ]
+  },
+  {
+    "class": "ElectionOfPresident",
+    "question_variations": [
+      "How is the President of India elected?",
+      "Can you explain the process of electing the President of India?",
+      "Who are the members of the electoral college for the President of India?"
+    ],
+    "responses": [
+      "The President of India is elected by an electoral college comprising elected members of both Houses of Parliament and State Legislative Assemblies.",
+      "The election of the President of India is conducted through a system of proportional representation by means of the single transferable vote.",
+      "Members of the electoral college, including MPs and MLAs, cast their votes to elect the President of India, ensuring representation from across the country."
+    ]
+  },
+  {
+    "class": "TermOfOfficeOfPresident",
+    "question_variations": [
+      "What is the term of office of the President of India?",
+      "How long does the President of India hold office?",
+      "Can the President of India be re-elected for another term?"
+    ],
+    "responses": [
+      "The President of India holds office for a term of five years from the date on which he or she enters upon the office.",
+      "The President of India may be re-elected for another term, subject to the provisions of the Constitution.",
+      "Even after the expiration of the term, the President continues to hold office until the successor enters upon the office."
+    ]
+  },
+  {
+    "class": "ImpeachmentOfPresident",
+    "question_variations": [
+      "What is the procedure for impeaching the President of India?",
+      "Can the President of India be impeached for violation of the Constitution?",
+      "Who has the authority to initiate the impeachment process against the President of India?"
+    ],
+    "responses": [
+      "The procedure for impeaching the President of India involves preferment of charges by either House of Parliament, investigation by the other House, and passing of a resolution by a two-thirds majority.",
+      "Yes, the President of India can be impeached for violation of the Constitution, subject to the provisions of the Indian Constitution.",
+      "The impeachment process against the President of India can be initiated by either House of Parliament through a resolution supported by at least one-fourth of its total membership."
+    ]
+  },
+  {
+    "class": "VicePresidentOfIndia",
+    "question_variations": [
+      "Who is the Vice-President of India?",
+      "Can you provide information about the Vice-President of India?",
+      "What are the duties and responsibilities of the Vice-President of India?"
+    ],
+    "responses": [
+      "The Vice-President of India serves as the second-highest constitutional authority in the country, presiding over the Council of States (Rajya Sabha).",
+      "The Vice-President of India is elected by an electoral college comprising members of both Houses of Parliament.",
+      "In addition to presiding over the Rajya Sabha, the Vice-President performs various functions, including assuming the role of President in the absence or vacancy of the President's office."
+    ]
+  },
+  {
+    "class": "AbidingByConstitution",
+    "question_variations": [
+      "Do I have to follow the Constitution of India?",
+      "Is it necessary to respect the ideals and institutions of the Constitution?",
+      "Can I ignore the Constitution and its principles?"
+    ],
+    "responses": [
+      "Following the Constitution of India is a fundamental duty of every citizen.",
+      "Respecting the ideals and institutions of the Constitution is essential for upholding democracy and the rule of law.",
+      "Ignoring the Constitution goes against the spirit of citizenship and democratic values."
+    ]
+  },
+  {
+    "class": "CherishingNobleIdeals",
+    "question_variations": [
+      "Should I value the noble ideals of India's freedom struggle?",
+      "Is it important to cherish the ideals that inspired our national freedom movement?",
+      "Can I disregard the noble ideals of India's struggle for freedom?"
+    ],
+    "responses": [
+      "Valuing the noble ideals of India's freedom struggle is a way to honor the sacrifices of our forefathers.",
+      "Cherishing the ideals that inspired our national freedom movement fosters patriotism and national pride.",
+      "Disregarding the noble ideals of India's struggle for freedom diminishes the significance of our history and heritage."
+    ]
+  },
+  {
+    "class": "UpholdingSovereignty",
+    "question_variations": [
+      "Do I need to uphold the sovereignty of India?",
+      "Is it my duty to protect the unity and integrity of India?",
+      "Can I ignore the importance of safeguarding India's sovereignty?"
+    ],
+    "responses": [
+      "Upholding the sovereignty of India is a fundamental responsibility of every citizen.",
+      "Protecting the unity and integrity of India is crucial for national security and stability.",
+      "Ignoring the importance of safeguarding India's sovereignty undermines the nation's security and unity."
+    ]
+  },
+  {
+    "class": "DefendingCountry",
+    "question_variations": [
+      "Do I have to defend the country if called upon?",
+      "Is it mandatory to render national service when required?",
+      "Can I refuse to defend the country if called upon to do so?"
+    ],
+    "responses": [
+      "Defending the country and rendering national service when called upon is a duty of citizenship.",
+      "National service contributes to the protection and security of the nation.",
+      "Refusing to defend the country when called upon undermines national security and solidarity."
+    ]
+  },
+  {
+    "class": "PromotingHarmony",
+    "question_variations": [
+      "Should I promote harmony among people of India?",
+      "Is it important to foster a spirit of brotherhood transcending differences?",
+      "Can I disregard the need to promote harmony among all people of India?"
+    ],
+    "responses": [
+      "Promoting harmony among people of India is essential for national unity and social cohesion.",
+      "Fostering a spirit of brotherhood transcending differences strengthens the social fabric of the nation.",
+      "Disregarding the need to promote harmony among all people of India can lead to social tensions and conflicts."
+    ]
+  },
+  {
+    "class": "ValuingHeritage",
+    "question_variations": [
+      "Should I value the rich heritage of India's composite culture?",
+      "Is it necessary to preserve the cultural heritage of India?",
+      "Can I ignore the significance of India's composite culture?"
+    ],
+    "responses": [
+      "Valuing the rich heritage of India's composite culture honors our diverse traditions and customs.",
+      "Preserving the cultural heritage of India ensures its continuity for future generations.",
+      "Ignoring the significance of India's composite culture undermines the country's cultural identity and diversity."
+    ]
+  },
+  {
+    "class": "ProtectingEnvironment",
+    "question_variations": [
+      "Do I need to protect the natural environment?",
+      "Is it my responsibility to improve the environment?",
+      "Can I neglect the protection of forests, lakes, and wildlife?"
+    ],
+    "responses": [
+      "Protecting the natural environment is crucial for sustainable development and biodiversity.",
+      "Improving the environment contributes to the well-being of present and future generations.",
+      "Neglecting the protection of forests, lakes, and wildlife threatens the ecological balance and biodiversity."
+    ]
+  },
+  {
+    "class": "DevelopingScientificTemper",
+    "question_variations": [
+      "Should I develop a scientific temper?",
+      "Is it important to cultivate humanism and the spirit of inquiry?",
+      "Can I ignore the need to develop a scientific attitude?"
+    ],
+    "responses": [
+      "Developing a scientific temper fosters critical thinking and evidence-based decision-making.",
+      "Cultivating humanism and the spirit of inquiry promotes empathy and intellectual curiosity.",
+      "Ignoring the need to develop a scientific attitude hinders progress and innovation."
+    ]
+  },
+  {
+    "class": "SafeguardingPublicProperty",
+    "question_variations": [
+      "Do citizens need to safeguard public property?",
+      "Is it necessary to refrain from violence and protect public assets?",
+      "Can I damage public property without consequences?"
+    ],
+    "responses": [
+      "Safeguarding public property is essential for the common good and the welfare of society.",
+      "Refraining from violence and protecting public assets preserves resources for the benefit of all citizens.",
+      "Damaging public property undermines social order and incurs legal consequences."
+    ]
+  },
+  {
+    "class": "StrivingTowardsExcellence",
+    "question_variations": [
+      "Why should citizens strive towards excellence?",
+      "What does it mean for a nation to rise to higher levels of endeavor and achievement?",
+      "Can individuals and collectives contribute to the progress of India?"
+    ],
+    "responses": [
+      "Striving towards excellence fosters innovation, competitiveness, and national development.",
+      "A nation rising to higher levels of endeavor and achievement signifies progress and growth.",
+      "Individuals and collectives play a crucial role in shaping the future trajectory and global standing of India."
+    ]
+  },
+  {
+    "class": "ProvidingEducationOpportunities",
+    "question_variations": [
+      "Do parents or guardians have to provide education opportunities to children?",
+      "What are the responsibilities of parents or guardians regarding children's education?",
+      "Is providing education opportunities essential for children's development?"
+    ],
+    "responses": [
+      "Parents or guardians are obligated to provide education opportunities to children between the ages of six and fourteen as per the Constitution.",
+      "Ensuring education opportunities for children is vital for their intellectual growth and future prospects.",
+      "Providing education opportunities to children enhances their knowledge, skills, and socio-economic opportunities."
+    ]
+  },
+  {
+    "class": "RoleOfPresident",
+    "question_variations": [
+      "What is the role of the President of India?",
+      "Can you provide information about the President's duties and responsibilities?",
+      "Who holds the highest constitutional position in India?"
+    ],
+    "responses": [
+      "The President of India serves as the head of state and the highest constitutional authority in the country.",
+      "The President performs various duties, including the appointment of key officials, addressing the nation on important occasions, and representing India in international matters.",
+      "The President plays a crucial role in upholding the Constitution, safeguarding national interests, and promoting unity and integrity."
+    ]
+  },
+  {
+    "class": "ElectionOfPresident",
+    "question_variations": [
+      "How is the President of India elected?",
+      "Can you explain the process of electing the President?",
+      "Who has the authority to choose the President of India?"
+    ],
+    "responses": [
+      "The President of India is elected by an electoral college comprising members of both Houses of Parliament and elected members of State Legislative Assemblies.",
+      "The election process involves a system of proportional representation by means of the single transferable vote and secret ballot.",
+      "The authority to choose the President lies with the members of the electoral college, who vote based on the population representation of their respective constituencies."
+    ]
+  },
+  {
+    "class": "TermOfOfficeOfPresident",
+    "question_variations": [
+      "How long does the President of India hold office?",
+      "What is the term of office for the President?",
+      "Can the President serve multiple terms?"
+    ],
+    "responses": [
+      "The President of India holds office for a term of five years from the date of assuming office.",
+      "The President can be re-elected for multiple terms, subject to the eligibility criteria and constitutional provisions.",
+      "The President continues to hold office until a successor assumes office, even if the term expires."
+    ]
+  },
+  {
+    "class": "ImpeachmentOfPresident",
+    "question_variations": [
+      "How can the President of India be removed from office?",
+      "Is there a process for impeaching the President?",
+      "Can the President be impeached for violating the Constitution?"
+    ],
+    "responses": [
+      "The President of India can be removed from office through impeachment for violating the Constitution.",
+      "The process of impeachment involves the presentation of charges by either House of Parliament, followed by investigation and resolution passed by a two-thirds majority.",
+      "Impeachment is a constitutional mechanism to ensure accountability and uphold the integrity of the presidential office."
+    ]
+  },
+  {
+    "class": "RoleOfVicePresident",
+    "question_variations": [
+      "What is the role of the Vice-President of India?",
+      "Can you provide information about the Vice-President's duties and responsibilities?",
+      "Who holds the second-highest constitutional position in India?"
+    ],
+    "responses": [
+      "The Vice-President of India serves as the second-highest constitutional authority in the country, presiding over the Council of States (Rajya Sabha).",
+      "The Vice-President of India is elected by an electoral college comprising members of both Houses of Parliament.",
+      "In addition to presiding over the Rajya Sabha, the Vice-President performs various functions, including assuming the role of President in the absence or vacancy of the President's office."
+    ]
+  },
+{
+    "class": "ActingAsPresident",
+    "question_variations": [
+      "What happens if the President's office becomes vacant?",
+      "Who assumes the role of President in case of a vacancy?",
+      "Can the Vice-President act as President during a vacancy?"
+    ],
+    "responses": [
+      "In the event of a vacancy in the office of the President, the Vice-President assumes the role of President until a new President is elected.",
+      "If the President is unable to discharge their functions due to absence, illness, or any other cause, the Vice-President temporarily assumes the duties of the President.",
+      "During such periods, the Vice-President possesses all the powers and immunities of the President and receives corresponding emoluments, allowances, and privileges."
+    ]
+  },
+  {
+    "class": "ElectionOfVicePresident",
+    "question_variations": [
+      "How is the Vice-President of India elected?",
+      "Can you explain the process of electing the Vice-President?",
+      "Who has the authority to choose the Vice-President of India?"
+    ],
+    "responses": [
+      "The Vice-President of India is elected by members of an electoral college consisting of members of both Houses of Parliament.",
+      "The election process utilizes a system of proportional representation by means of the single transferable vote and secret ballot.",
+      "The authority to choose the Vice-President lies with the members of the electoral college, who vote based on proportional representation."
+    ]
+  },
+  {
+    "class": "QualificationsForVicePresident",
+    "question_variations": [
+      "What are the qualifications for becoming Vice-President?",
+      "Who is eligible to be elected as Vice-President?",
+      "Can anyone become Vice-President of India?"
+    ],
+    "responses": [
+      "To be eligible for election as Vice-President, a person must be a citizen of India, at least thirty-five years old, and qualified for election as a member of the Council of States.",
+      "A person cannot hold any office of profit under the Government of India, a State government, or any local or other authority subject to the control of the said governments.",
+      "Certain offices, such as President, Vice-President, Governor, or Minister, do not disqualify a person from being elected as Vice-President."
+    ]
+  },
+  {
+    "class": "TermOfOfficeOfVicePresident",
+    "question_variations": [
+      "How long does the Vice-President of India serve?",
+      "What is the term of office for the Vice-President?",
+      "Can the Vice-President serve multiple terms?"
+    ],
+    "responses": [
+      "The Vice-President of India holds office for a term of five years from the date of assuming office.",
+      "The Vice-President may resign from office by submitting a written resignation to the President.",
+      "The Vice-President may be removed from office by a resolution passed by the Council of States by a majority of all its members and agreed to by the House of the People."
+    ]
+  },
+  {
+    "class": "OathByVicePresident",
+    "question_variations": [
+      "Does the Vice-President take an oath of office?",
+      "What is the oath or affirmation taken by the Vice-President?",
+      "Can you provide the text of the oath sworn by the Vice-President?"
+    ],
+    "responses": [
+      "Before assuming office, the Vice-President takes an oath or affirmation in the presence of the President or a person appointed by the President for this purpose.",
+      "The Vice-President pledges allegiance to the Constitution of India and vows to faithfully discharge the duties of the office.",
+      "The text of the oath sworn by the Vice-President is standardized and prescribed by law."
+    ]
+  },
+  {
+    "class": "DischargeOfPresidentialFunctions",
+    "question_variations": [
+      "What happens if the President is unable to discharge their duties?",
+      "Who assumes the responsibilities of the President in case of incapacity?",
+      "Can the Vice-President perform the functions of the President?"
+    ],
+    "responses": [
+      "If the President is unable to discharge their functions due to absence, illness, or any other cause, the Vice-President assumes the duties of the President.",
+      "During such periods, the Vice-President exercises all the powers and immunities of the President.",
+      "The Vice-President is entitled to receive emoluments, allowances, and privileges equivalent to those of the President during the period of discharging presidential functions."
+    ]
+  },
+  {
+    "class": "PowerOfPresidentToGrantPardons",
+    "question_variations": [
+      "Does the President have the power to grant pardons?",
+      "Can the President pardon individuals convicted of offenses?",
+      "Is the President authorized to suspend, remit, or commute sentences?"
+    ],
+    "responses": [
+      "The President possesses the power to grant pardons, reprieves, respites, or remissions of punishment to individuals convicted of offenses.",
+      "The President can also suspend, remit, or commute sentences, particularly in cases involving death penalties or military court martial convictions.",
+      "These powers are exercised by the President to ensure justice, mercy, and the proper administration of law."
+    ]
+  },
+  {
+    "class": "ExtentOfExecutivePower",
+    "question_variations": [
+      "What is the extent of executive power vested in the Union?",
+      "What are the limits of the Union's executive authority?",
+      "Can Parliament regulate the exercise of executive power?"
+    ],
+    "responses": [
+      "The executive power of the Union extends to matters within the legislative competence of Parliament and rights, authority, and jurisdiction derived from treaties or agreements.",
+      "However, this executive power does not extend to matters within the legislative competence of State legislatures unless expressly provided by the Constitution or Parliament.",
+      "Parliament has the authority to regulate any matter related to or connected with the exercise of executive power vested in the Union."
+    ]
+  },
+  {
+    "class": "ActingAsPresident",
+    "question_variations": [
+      "What happens if the President's office becomes vacant?",
+      "Who assumes the role of President in case of a vacancy?",
+      "Can the Vice-President act as President during a vacancy?",
+      "If the President is unable to fulfill their duties, who takes over?",
+      "Who serves as President if the elected President is unable to do so?"
+    ],
+    "responses": [
+      "In the event of a vacancy in the office of the President, the Vice-President assumes the role of President until a new President is elected.",
+      "If the President is unable to discharge their functions due to absence, illness, or any other cause, the Vice-President temporarily assumes the duties of the President.",
+      "During such periods, the Vice-President possesses all the powers and immunities of the President and receives corresponding emoluments, allowances, and privileges."
+    ]
+  },
+  {
+    "class": "ElectionOfVicePresident",
+    "question_variations": [
+      "How is the Vice-President of India elected?",
+      "Can you explain the process of electing the Vice-President?",
+      "Who has the authority to choose the Vice-President of India?",
+      "Who votes for the Vice-President?",
+      "What is the voting procedure for electing the Vice-President?"
+    ],
+    "responses": [
+      "The Vice-President of India is elected by members of an electoral college consisting of members of both Houses of Parliament.",
+      "The election process utilizes a system of proportional representation by means of the single transferable vote and secret ballot.",
+      "The authority to choose the Vice-President lies with the members of the electoral college, who vote based on proportional representation."
+    ]
+  },
+  {
+    "class": "QualificationsForVicePresident",
+    "question_variations": [
+      "What are the qualifications for becoming Vice-President?",
+      "Who is eligible to be elected as Vice-President?",
+      "Can anyone become Vice-President of India?",
+      "What criteria must a person meet to become Vice-President?",
+      "Is there any age requirement to become Vice-President?"
+    ],
+    "responses": [
+      "To be eligible for election as Vice-President, a person must be a citizen of India, at least thirty-five years old, and qualified for election as a member of the Council of States.",
+      "A person cannot hold any office of profit under the Government of India, a State government, or any local or other authority subject to the control of any of the said governments.",
+      "Certain offices, such as President, Vice-President, Governor, or Minister, do not disqualify a person from being elected as Vice-President."
+    ]
+  },
+  {
+    "class": "TermOfOfficeOfVicePresident",
+    "question_variations": [
+      "How long does the Vice-President of India serve?",
+      "What is the term of office for the Vice-President?",
+      "Can the Vice-President serve multiple terms?",
+      "Is there a limit to the number of terms a Vice-President can serve?",
+      "How many years does the Vice-President hold office?"
+    ],
+    "responses": [
+      "The Vice-President of India holds office for a term of five years from the date of assuming office.",
+      "The Vice-President may resign from office by submitting a written resignation to the President.",
+      "The Vice-President may be removed from office by a resolution passed by the Council of States by a majority of all its members and agreed to by the House of the People."
+    ]
+  },
+  {
+    "class": "OathByVicePresident",
+    "question_variations": [
+      "Does the Vice-President take an oath of office?",
+      "What is the oath or affirmation taken by the Vice-President?",
+      "Can you provide the text of the oath sworn by the Vice-President?",
+      "What promises does the Vice-President make upon assuming office?",
+      "What is the pledge made by the Vice-President before taking office?"
+    ],
+    "responses": [
+      "Before assuming office, the Vice-President takes an oath or affirmation in the presence of the President or a person appointed by the President for this purpose.",
+      "The Vice-President pledges allegiance to the Constitution of India and vows to faithfully discharge the duties of the office.",
+      "The text of the oath sworn by the Vice-President is standardized and prescribed by law."
+    ]
+  },
+  {
+    "class": "DischargeOfPresidentialFunctions",
+    "question_variations": [
+      "What happens if the President is unable to discharge their duties?",
+      "Who assumes the responsibilities of the President in case of incapacity?",
+      "Can the Vice-President perform the functions of the President?",
+      "Who takes over the President's duties if they are unable to perform them?",
+      "In case of the President's incapacitation, who takes charge?"
+    ],
+    "responses": [
+      "If the President is unable to discharge their functions due to absence, illness, or any other cause, the Vice-President assumes the duties of the President.",
+      "During such periods, the Vice-President exercises all the powers and immunities of the President.",
+      "The Vice-President is entitled to receive emoluments, allowances, and privileges equivalent to those of the President during the period of discharging presidential functions."
+    ]
+  },
+  {
+    "class": "PowerOfPresidentToGrantPardons",
+    "question_variations": [
+      "Does the President have the power to grant pardons?",
+      "Can the President pardon individuals convicted of offenses?",
+      "Is the President authorized to suspend, remit, or commute sentences?",
+      "What authority does the President have in granting pardons?",
+      "Can the President reduce or eliminate someone's punishment?"
+    ],
+    "responses": [
+      "The President possesses the power to grant pardons, reprieves, respites, or remissions of punishment to individuals convicted of offenses.",
+      "The President can also suspend, remit, or commute sentences, particularly in cases involving death penalties or military court martial convictions.",
+      "These powers are exercised by the President to ensure justice, mercy, and the proper administration of law."
+    ]
+  },
+  {
+    "class": "ExtentOfExecutivePower",
+    "question_variations": [
+      "What is the extent of executive power vested in the Union?",
+      "What are the limits of the Union's executive authority?",
+      "Can Parliament regulate the exercise of executive power?",
+      "How far does the Union's executive authority reach?",
+      "What are the boundaries of the Union's executive power?"
+    ],
+    "responses": [
+      "The executive power of the Union extends to matters within the legislative competence of Parliament and rights, authority, and jurisdiction derived from treaties or agreements.",
+      "However, this executive power does not extend to matters within the legislative competence of State legislatures unless expressly provided by the Constitution or Parliament.",
+      "Parliament has the authority to regulate any matter related to or connected with the exercise of executive power vested in the Union."
+    ]
+  },
+{
+    "class": "CouncilOfMinisters",
+    "question_variations": [
+      "What is the Council of Ministers?",
+      "Who comprises the Council of Ministers?",
+      "What is the purpose of the Council of Ministers?",
+      "What is the role of the Prime Minister in the Council of Ministers?",
+      "How does the Council of Ministers assist the President?"
+    ],
+    "responses": [
+      "The Council of Ministers, headed by the Prime Minister, aids and advises the President in the exercise of his functions.",
+      "The Prime Minister and other Ministers constitute the Council of Ministers.",
+      "The Council of Ministers assists the President by providing advice on matters of governance and policy.",
+      "The Prime Minister is the head of the Council of Ministers and plays a crucial role in coordinating government policies and actions.",
+      "The Council of Ministers advises the President on various issues and decisions related to the administration of the country."
+    ]
+  },
+  {
+    "class": "AppointmentOfPrimeMinister",
+    "question_variations": [
+      "How is the Prime Minister appointed?",
+      "Who appoints the Prime Minister?",
+      "What is the process of appointing the Prime Minister?",
+      "Who has the authority to select the Prime Minister?",
+      "How does the President choose the Prime Minister?"
+    ],
+    "responses": [
+      "The President appoints the Prime Minister of India.",
+      "The Prime Minister is appointed by the President based on the advice of the Council of Ministers.",
+      "The process involves the Prime Minister being chosen by the majority party in the Lok Sabha and formally recommended to the President.",
+      "The President selects the Prime Minister from the party or coalition with a majority in the Lok Sabha.",
+      "The Prime Minister is typically the leader of the political party that commands the majority in the Lok Sabha."
+    ]
+  },
+  {
+    "class": "NumberAndTenureOfMinisters",
+    "question_variations": [
+      "How many Ministers can be part of the Council?",
+      "Is there a limit to the number of Ministers in the Council?",
+      "What is the maximum number of Ministers in the Council?",
+      "How long do Ministers hold office?",
+      "What is the tenure of Ministers in the Council?"
+    ],
+    "responses": [
+      "The total number of Ministers in the Council, including the Prime Minister, cannot exceed fifteen percent of the total number of members of the Lok Sabha.",
+      "Ministers hold office at the pleasure of the President.",
+      "The tenure of Ministers is determined by the President, and they serve until their resignation or removal from office.",
+      "Ministers are collectively responsible to the Lok Sabha.",
+      "If a Minister is not a member of either House of Parliament for six consecutive months, they cease to be a Minister."
+    ]
+  },
+  {
+    "class": "RoleOfPrimeMinister",
+    "question_variations": [
+      "What are the duties of the Prime Minister?",
+      "What responsibilities does the Prime Minister have?",
+      "Can you explain the role of the Prime Minister?",
+      "What functions does the Prime Minister perform?",
+      "What is expected of the Prime Minister?"
+    ],
+    "responses": [
+      "The Prime Minister communicates all decisions of the Council of Ministers to the President and furnishes information as required.",
+      "The Prime Minister plays a pivotal role in the administration of the country, leading the Council of Ministers and guiding government policies.",
+      "The Prime Minister's duties include providing advice to the President, coordinating government activities, and representing the country domestically and internationally.",
+      "The Prime Minister is responsible for ensuring effective governance and the implementation of government programs and policies.",
+      "The Prime Minister acts as the chief executive of the country, overseeing the functioning of the government and representing the nation's interests."
+    ]
+  },
+  {
+    "class": "AttorneyGeneralForIndia",
+    "question_variations": [
+      "Who appoints the Attorney-General for India?",
+      "What is the role of the Attorney-General for India?",
+      "Can you explain the duties of the Attorney-General for India?",
+      "What authority does the Attorney-General for India have?",
+      "Who determines the remuneration of the Attorney-General for India?"
+    ],
+    "responses": [
+      "The President appoints a person qualified to be appointed a Judge of the Supreme Court as the Attorney-General for India.",
+      "The Attorney-General provides legal advice to the Government of India and performs other legal duties assigned by the President or under the Constitution.",
+      "The Attorney-General has the right of audience in all courts in India and represents the government in legal matters.",
+      "The Attorney-General's remuneration is determined by the President.",
+      "The Attorney-General serves at the pleasure of the President."
+    ]
+  },
+  {
+    "class": "ConductOfGovernmentBusiness",
+    "question_variations": [
+      "How is the business of the Government of India conducted?",
+      "What is the procedure for conducting government business?",
+      "In whose name is executive action taken by the Government of India?",
+      "What is the role of the President in the conduct of government business?",
+      "How are orders and instruments made and executed by the Government of India authenticated?"
+    ],
+    "responses": [
+      "All executive actions of the Government of India are expressed to be taken in the name of the President.",
+      "Orders and other instruments made and executed by the Government of India in the name of the President are authenticated as specified in rules made by the President.",
+      "The President makes rules for the more convenient transaction of government business and allocates business among Ministers.",
+      "The President's role is to ensure that government business is conducted in accordance with the Constitution and relevant laws.",
+      "Orders and instruments authenticated in the name of the President are valid and cannot be questioned on the ground of their authenticity."
+    ]
+  },
+  {
+    "class": "DutiesOfPrimeMinister",
+    "question_variations": [
+      "What are the duties of the Prime Minister regarding communication with the President?",
+      "What responsibilities does the Prime Minister have in communicating with the President?",
+      "Can you explain the duties of the Prime Minister in relation to the President?",
+      "What is expected of the Prime Minister concerning information sharing with the President?",
+      "How does the Prime Minister fulfill their obligations to the President?"
+    ],
+    "responses": [
+      "It is the duty of the Prime Minister to communicate to the President all decisions of the Council of Ministers related to the administration of the Union and proposals for legislation.",
+      "The Prime Minister must furnish information related to the administration of the Union and proposals for legislation as requested by the President.",
+      "If required by the President, the Prime Minister submits for the consideration of the Council of Ministers any matter on which a decision has been taken by a Minister but not considered by the Council.",
+      "The Prime Minister ensures transparency and accountability in government operations by fulfilling these duties to the President.",
+      "By effectively communicating with the President, the Prime Minister facilitates the smooth functioning of the government and ensures that the President is kept informed of key decisions and developments."
+    ]
+  },
+  {
+    "class": "CompositionOfParliament",
+    "question_variations": [
+      "What constitutes the Parliament of India?",
+      "What are the components of the Indian Parliament?",
+      "Can you explain the composition of the Indian Parliament?",
+      "Who are the members of the Indian Parliament?",
+      "What are the two Houses of the Indian Parliament?"
+    ],
+    "responses": [
+      "The Parliament of India consists of the President and two Houses: the Council of States (Rajya Sabha) and the House of the People (Lok Sabha).",
+      "The Indian Parliament is composed of the President, the Council of States (Rajya Sabha), and the House of the People (Lok Sabha).",
+      "The Indian Parliament comprises the President, the Council of States (Rajya Sabha), and the House of the People (Lok Sabha).",
+      "The members of the Indian Parliament include the President, members of the Rajya Sabha, and members of the Lok Sabha.",
+      "The Indian Parliament consists of the President and two Houses: the Rajya Sabha (Council of States) and the Lok Sabha (House of the People)."
+    ]
+  },
+  {
+    "class": "CompositionOfCouncilOfStates",
+    "question_variations": [
+      "What is the composition of the Council of States?",
+      "How is the Council of States composed?",
+      "Who are the members of the Council of States?",
+      "Can you explain the makeup of the Council of States?",
+      "What constitutes the membership of the Council of States?"
+    ],
+    "responses": [
+      "The Council of States (Rajya Sabha) consists of members nominated by the President and representatives of States and Union territories.",
+      "The Council of States is composed of members nominated by the President and representatives of States and Union territories.",
+      "The Council of States includes members nominated by the President and representatives of States and Union territories.",
+      "The Council of States comprises nominated members and representatives of States and Union territories.",
+      "The Council of States is made up of members nominated by the President and representatives of States and Union territories."
+    ]
+  },
+  {
+    "class": "CompositionOfHouseOfPeople",
+    "question_variations": [
+      "What is the composition of the House of the People?",
+      "How is the House of the People composed?",
+      "Who are the members of the House of the People?",
+      "Can you explain the makeup of the House of the People?",
+      "What constitutes the membership of the House of the People?"
+    ],
+    "responses": [
+      "The House of the People (Lok Sabha) consists of members elected by direct election from territorial constituencies in the States and representatives from Union territories.",
+      "The House of the People is composed of members elected by direct election from territorial constituencies in the States and representatives from Union territories.",
+      "The House of the People includes members elected by direct election from territorial constituencies in the States and representatives from Union territories.",
+      "The House of the People comprises members elected by direct election from territorial constituencies in the States and representatives from Union territories.",
+      "The House of the People is made up of members elected by direct election from territorial constituencies in the States and representatives from Union territories."
+    ]
+  },
+ {
+    "class": "SessionsOfParliament",
+    "question_variations": [
+      "What does Article 85 of the Indian Constitution say about the sessions of Parliament?",
+      "Can you explain the rules for Parliament's sessions according to Article 85?",
+      "Hey, could you summarize how Parliament's sessions are regulated by Article 85?"
+    ],
+    "responses": [
+      "Article 85 of the Indian Constitution outlines how Parliament's sessions are conducted. It specifies that the President summons each House of Parliament from time to time, with not more than six months between sessions. Additionally, the President can prorogue the Houses or dissolve the House of the People."
+    ]
+  },
+  {
+    "class": "RightOfPresidentToSendMessages",
+    "question_variations": [
+      "What is the President's authority to address and send messages to Parliament?",
+      "Can you explain how the President communicates with Parliament?",
+      "How does the Indian Constitution empower the President to address Parliament?"
+    ],
+    "responses": [
+      "The President of India can address either House of Parliament or both together, and can request the attendance of members. Additionally, the President can send messages to either House, whether about pending Bills or other matters, and the receiving House must consider the message promptly."
+    ]
+  },
+  {
+    "class": "SpecialAddressByPresident",
+    "question_variations": [
+      "Why does the President address both Houses of Parliament at the beginning of each session?",
+      "What's the significance of the President's speech to Parliament at the start of each session?",
+      "Can you explain why the President speaks to Parliament at the commencement of each session?"
+    ],
+    "responses": [
+      "The President addresses both Houses of Parliament at the beginning of each session to inform them about the reasons for their summoning. This typically happens at the start of the first session after a general election to the House of the People and at the beginning of each year. Time for discussion of the matters raised in the President's address is allotted by the rules governing each House."
+    ]
+  },
+  {
+    "class": "RightsOfMinistersAndAttorneyGeneral",
+    "question_variations": [
+      "What rights do Ministers and the Attorney-General have in Parliament?",
+      "Can you explain the privileges granted to Ministers and the Attorney-General in Parliament?",
+      "Hey, what are the entitlements of Ministers and the Attorney-General when they're in Parliament?"
+    ],
+    "responses": [
+      "Every Minister and the Attorney-General of India have the right to speak and participate in the proceedings of either House of Parliament, any joint sitting of the Houses, and any committee of Parliament they're part of. However, they cannot vote by virtue of this right."
+    ]
+  },
+  {
+    "class": "ChairmanAndDeputyChairmanOfCouncilOfStates",
+    "question_variations": [
+      "Who serves as the Chairman and Deputy Chairman of the Council of States in India?",
+      "Can you tell me about the roles of the Chairman and Deputy Chairman of the Council of States?",
+      "Hey, who holds the positions of Chairman and Deputy Chairman in the Council of States?"
+    ],
+    "responses": [
+      "The Vice-President of India serves as the ex officio Chairman of the Council of States, or the Rajya Sabha. Additionally, the Council of States chooses one of its members to be the Deputy Chairman."
+    ]
+  },
+  {
+    "class": "SpeakerAndDeputySpeakerOfHouseOfPeople",
+    "question_variations": [
+      "Who are the Speaker and Deputy Speaker of the House of the People in India?",
+      "Can you provide information about the Speaker and Deputy Speaker of the House of the People?",
+      "Hey, who holds the positions of Speaker and Deputy Speaker in the House of the People?"
+    ],
+    "responses": [
+      "The House of the People, or the Lok Sabha, elects two of its members to be the Speaker and the Deputy Speaker respectively. Whenever the Speaker or Deputy Speaker's position becomes vacant, the House chooses another member to fill the respective position."
+    ]
+  },
+  {
+    "class": "DisqualificationsForMembership",
+    "question_variations": [
+      "What are the disqualifications for membership in either House of Parliament according to Article 102 of the Indian Constitution?",
+      "Can you explain the reasons for disqualification from membership in Parliament as per Article 102?",
+      "Hey, what conditions lead to disqualification for membership in Parliament according to Article 102?"
+    ],
+    "responses": [
+      "Article 102 of the Indian Constitution outlines the disqualifications for membership in Parliament. These include holding an office of profit under the Government of India or any State government, being declared of unsound mind by a competent court, being an undischarged insolvent, not being a citizen of India, voluntarily acquiring foreign citizenship, or being disqualified under any law made by Parliament."
+    ]
+  },
+  {
+    "class": "DecisionOnDisqualificationsOfMembers",
+    "question_variations": [
+      "How are questions regarding the disqualification of members of Parliament decided?",
+      "Can you explain the process for determining disqualifications of Parliament members?",
+      "Hey, what is the procedure for resolving questions about the disqualification of Parliament members?"
+    ],
+    "responses": [
+      "Article 103 of the Indian Constitution stipulates that if any question arises about whether a member of Parliament has become subject to disqualifications mentioned in Article 102(1), the matter is referred to the President for a decision. The President, before making any decision, obtains the opinion of the Election Commission and acts accordingly."
+    ]
+  },
+  {
+    "class": "PenaltyForSittingAndVotingBeforeOath",
+    "question_variations": [
+      "What penalty is imposed for sitting and voting in Parliament before fulfilling the requirements of Article 99?",
+      "Can you explain the consequences of sitting and voting in Parliament without fulfilling the oath requirements?",
+      "Hey, what happens if someone sits and votes in Parliament before taking the oath?"
+    ],
+    "responses": [
+      "Article 104 of the Indian Constitution imposes a penalty of five hundred rupees for each day a person sits or votes in either House of Parliament before complying with the requirements of Article 99, or when they know they are not qualified or disqualified for membership. This penalty is recoverable as a debt owed to the Union."
+    ]
+  },
+  {
+    "class": "PowersPrivilegesAndImmunitiesOfParliamentAndMembers",
+    "question_variations": [
+      "What powers, privileges, and immunities are granted to Parliament and its members according to Article 105?",
+      "Can you explain the rights and protections afforded to Parliament and its members?",
+      "Hey, what are the powers and privileges bestowed upon Parliament and its members?"
+    ],
+    "responses": [
+      "Article 105 of the Indian Constitution grants Parliament and its members certain powers, privileges, and immunities. These include freedom of speech in Parliament, immunity from legal proceedings in respect of anything said or any vote given in Parliament, and no liability for publication of reports, papers, or proceedings authorized by Parliament."
+    ]
+  },
+  {
+    "class": "SalariesAndAllowancesOfMembers",
+    "question_variations": [
+      "How are the salaries and allowances determined for members of Parliament?",
+      "Can you explain how the salaries and allowances for Parliament members are decided?",
+      "Hey, what factors determine the salaries and allowances of Parliament members?"
+    ],
+    "responses": [
+      "Members of either House of Parliament are entitled to receive salaries and allowances determined by Parliament by law. Until such provision is made, they receive allowances at rates and conditions applicable to members of the Constituent Assembly of the Dominion of India."
+    ]
+  },
+  {
+    "class": "IntroductionAndPassingOfBills",
+    "question_variations": [
+      "What are the procedures for introducing and passing Bills in Parliament?",
+      "Can you explain how Bills are introduced and passed in Parliament?",
+      "Hey, what steps are involved in introducing and passing Bills in Parliament?"
+    ],
+    "responses": [
+      "Article 107 of the Indian Constitution outlines the procedures for introducing and passing Bills in Parliament. It specifies that a Bill may originate in either House of Parliament and must be agreed upon by both Houses without amendment or with agreed amendments to be deemed passed. Additionally, it clarifies that Bills do not lapse due to prorogation of the Houses."
+    ]
+  },
+  {
+    "class": "JointSittingOfBothHouses",
+    "question_variations": [
+      "Under what circumstances is a joint sitting of both Houses of Parliament called?",
+      "Can you explain when a joint sitting of both Houses of Parliament is convened?",
+      "Hey, when does a joint sitting of both Houses of Parliament occur?"
+    ],
+    "responses": [
+      "Article 108 of the Indian Constitution provides for a joint sitting of both Houses of Parliament when a Bill passed by one House is rejected or not agreed upon by the other House within six months, or if more than six months pass without the Bill being passed by the other House. The President may summon a joint sitting for deliberation and voting on the Bill, except for Money Bills."
+    ]
+  },
+  {
+    "class": "SpecialProcedureInRespectOfMoneyBills",
+    "question_variations": [
+      "What special procedure is followed for Money Bills in Parliament?",
+      "Can you explain the specific process for handling Money Bills in Parliament?",
+      "Hey, how are Money Bills treated differently in Parliament?"
+    ],
+    "responses": [
+      "Article 109 of the Indian Constitution details the special procedure for Money Bills. It stipulates that a Money Bill cannot be introduced in the Council of States and must be transmitted to the Council of States for recommendations within fourteen days of passage by the House of the People. The Council of States may recommend amendments, but the House of the People has the final say."
+    ]
+  },
+  {
+    "class": "DefinitionOfMoneyBills",
+    "question_variations": [
+      "How are Money Bills defined in the Indian Constitution?",
+      "Can you explain the criteria for categorizing a Bill as a Money Bill?",
+      "Hey, what characteristics determine whether a Bill is considered a Money Bill?"
+    ],
+    "responses": [
+      "Article 110 of the Indian Constitution defines Money Bills as those dealing exclusively with certain financial matters, including taxation, borrowing of money, appropriation of funds, and more. Any question regarding whether a Bill is a Money Bill is decided by the Speaker of the House of the People, and the Speaker's decision is final."
+    ]
+  },
+  {
+    "class": "AssentToBills",
+    "question_variations": [
+      "What happens after a Bill is passed by both Houses of Parliament?",
+      "Can you explain the process of granting assent to Bills in Parliament?",
+      "Hey, what occurs once a Bill is approved by both Houses of Parliament?"
+    ],
+    "responses": [
+      "Article 111 of the Indian Constitution specifies that after a Bill is passed by both Houses of Parliament, it is presented to the President for assent. The President can either assent to the Bill or withhold assent. If the President returns the Bill, not categorized as a Money Bill, for reconsideration, and it's passed again by both Houses, the President must assent to it."
+    ]
+  },
+  {
+    "class": "AppropriationBills",
+    "question_variations": [
+      "What's the deal with appropriation bills as per the Indian Constitution?",
+      "Can you explain the concept of appropriation bills in simpler terms?",
+      "Hey, what's the Indian Constitution's stance on appropriation bills?",
+      "How do appropriation bills work in Parliament?",
+      "Why are appropriation bills important in the legislative process?"
+    ],
+    "responses": [
+      "Article 114 of the Indian Constitution deals with appropriation bills. These bills are introduced after the House of the People approves grants. They allocate funds from the Consolidated Fund of India to cover the approved grants and other charged expenses. Amendments to these bills are restricted to prevent changes in the specified amounts or purposes.",
+      "Appropriation bills, per Article 114 of the Indian Constitution, allocate funds from the Consolidated Fund of India to cover approved grants and charged expenses. They're introduced after the House of the People approves grants, and amendments are limited to prevent alterations in the designated amounts or purposes."
+    ]
+  },
+  {
+    "class": "SupplementaryAdditionalOrExcessGrants",
+    "question_variations": [
+      "What's the deal with supplementary, additional, or excess grants as per the Indian Constitution?",
+      "Can you explain the concept of supplementary, additional, or excess grants in simpler terms?",
+      "Hey, what's the Indian Constitution's stance on supplementary, additional, or excess grants?",
+      "How do supplementary, additional, or excess grants impact government spending?",
+      "Why are supplementary, additional, or excess grants necessary in Parliament?"
+    ],
+    "responses": [
+      "Article 115 of the Indian Constitution covers supplementary, additional, or excess grants. These grants are proposed when the allocated funds for a service are insufficient or when unforeseen expenses arise during the financial year. Parliament must approve these grants, which follow similar procedures as regular grants.",
+      "Supplementary, additional, or excess grants, according to Article 115 of the Indian Constitution, address situations where allocated funds for a service are insufficient or unexpected expenses arise during the financial year. Parliament must approve these grants, following procedures similar to regular grants."
+    ]
+  },
+  {
+    "class": "VotesOnAccountVotesOfCreditAndExceptionalGrants",
+    "question_variations": [
+      "What's the deal with votes on account, votes of credit, and exceptional grants as per the Indian Constitution?",
+      "Can you explain the concept of votes on account, votes of credit, and exceptional grants in simpler terms?",
+      "Hey, what's the Indian Constitution's stance on votes on account, votes of credit, and exceptional grants?",
+      "How do votes on account, votes of credit, and exceptional grants differ from regular grants?",
+      "Why does Parliament use votes on account, votes of credit, and exceptional grants?"
+    ],
+    "responses": [
+      "Article 116 of the Indian Constitution addresses votes on account, votes of credit, and exceptional grants. These provisions empower the House of the People to authorize advance grants for part of a financial year, address unexpected demands on India's resources, and make exceptional grants not tied to a specific year's service.",
+      "Votes on account, votes of credit, and exceptional grants, per Article 116 of the Indian Constitution, enable the House of the People to approve advance grants for a portion of the financial year, respond to unforeseen resource demands, and allocate special grants unrelated to a specific year's services."
+    ]
+  },
+  {
+    "class": "SpecialProvisionsAsToFinancialBills",
+    "question_variations": [
+      "What's the deal with special provisions as to financial bills as per the Indian Constitution?",
+      "Can you explain the concept of special provisions as to financial bills in simpler terms?",
+      "Hey, what's the Indian Constitution's stance on special provisions as to financial bills?",
+      "Why does the Indian Constitution have special provisions for financial bills?",
+      "What distinguishes financial bills from other legislative measures in Parliament?"
+    ],
+    "responses": [
+      "Article 117 of the Indian Constitution outlines special provisions regarding financial bills. These provisions require the President's recommendation for introduction, and certain types of financial matters cannot be introduced in the Council of States without this recommendation. Additionally, not all provisions related to money matters fall under the category of financial matters as per the Constitution.",
+      "Special provisions as to financial bills, per Article 117 of the Indian Constitution, have unique rules. They require the President's recommendation for introduction, and certain types of financial matters cannot be introduced in the Council of States without this recommendation. Additionally, not all provisions related to money matters fall under the category of financial matters as per the Constitution."
+    ]
+  },
+  {
+    "class": "RulesOfProcedure",
+    "question_variations": [
+      "What's the deal with those rules of procedure as per the Indian Constitution?",
+      "Can you break down the concept of rules of procedure in simpler terms as per the Indian Constitution?",
+      "Hey, what's the Indian Constitution's take on rules of procedure?",
+      "Why are rules of procedure important in Parliament?",
+      "How do rules of procedure help regulate parliamentary activities?"
+    ],
+    "responses": [
+      "Article 118 of the Indian Constitution allows each House of Parliament to make rules regulating its procedures and business conduct, subject to constitutional provisions. Initially, until the Houses frame their rules, they can follow the rules of the British House of Commons. These rules help ensure the orderly conduct of parliamentary affairs and debates.",
+      "The rules of procedure, according to Article 118 of the Indian Constitution, empower each House of Parliament to establish regulations governing its operations and conduct, provided they adhere to constitutional principles. Initially, until the Houses draft their rules, they may adopt the rules of the British House of Commons as a guideline. These rules play a crucial role in maintaining the orderly functioning of parliamentary proceedings and discussions."
+    ]
+  },
+ {
+    "class": "AnnualFinancialStatement",
+    "question_variations": [
+      "What's the deal with the annual financial statement in India?",
+      "Could you break down that annual financial statement thing for me?",
+      "Hey, what's up with that annual financial statement the Indian Constitution talks about?",
+      "How does the annual financial statement impact government spending decisions?",
+      "Is there any public consultation or input involved in preparing the annual financial statement?",
+      "Are there any recent changes or updates in the format or content of the annual financial statement?",
+      "What measures are taken to ensure the accuracy and reliability of the data presented in the annual financial statement?",
+      "Can the public request additional information or clarification regarding the annual financial statement?",
+      "How does the annual financial statement contribute to fiscal transparency and accountability?",
+      "Are there any penalties or consequences for inaccurate or misleading information in the annual financial statement?"
+    ],
+    "responses": [
+      "According to Article 112 of the Indian Constitution, the President must, in respect of every financial year, present to both Houses of Parliament a statement of the estimated receipts and expenditure of the Government of India for that year. This statement, known as the 'annual financial statement,' outlines the projected income and expenses of the government for the upcoming fiscal year.",
+      "The annual financial statement serves as a comprehensive overview of the government's financial plans and priorities for the upcoming fiscal year. It includes estimates of revenue sources, such as taxes and tariffs, as well as projections for government spending across various sectors and programs. This statement plays a crucial role in shaping government policies and budget allocations, guiding decision-making processes, and ensuring accountability to the public and the Parliament.",
+      "The preparation of the annual financial statement involves a rigorous process that includes consultations among various government departments, financial experts, and policymakers. Inputs from economic forecasts, sectoral analysis, and revenue projections are considered to ensure the accuracy and reliability of the financial estimates presented in the statement.",
+      "Recent developments in the format and content of the annual financial statement aim to enhance transparency, accessibility, and comprehensiveness. Efforts have been made to provide detailed breakdowns of revenue and expenditure categories, along with explanations of key budgetary decisions and priorities. Additionally, initiatives such as online portals and interactive tools have been introduced to facilitate public understanding and engagement with the financial planning process.",
+      "To ensure the accuracy and reliability of the data presented in the annual financial statement, various measures are implemented, including stringent auditing procedures, adherence to accounting standards, and regular review and verification by financial experts and government officials. Additionally, transparency measures such as public disclosure requirements and parliamentary scrutiny help identify and rectify any discrepancies or errors in the financial data.",
+      "Yes, the public can request additional information or clarification regarding the annual financial statement through formal channels such as the Ministry of Finance or parliamentary inquiries. Government agencies are obligated to provide timely and accurate responses to public queries to promote transparency and accountability in financial matters.",
+      "The annual financial statement contributes to fiscal transparency and accountability by providing a comprehensive overview of the government's financial activities, priorities, and plans. By disclosing detailed information about revenue sources, expenditure allocations, and budgetary decisions, the statement enables stakeholders to assess the government's financial performance, monitor resource allocations, and hold policymakers accountable for their fiscal management decisions.",
+      "While there are no specific penalties outlined for inaccurate or misleading information in the annual financial statement, any discrepancies or errors detected during parliamentary scrutiny or auditing processes may lead to further investigations, corrective actions, or accountability measures. The government is expected to uphold high standards of transparency, accuracy, and integrity in financial reporting to maintain public trust and confidence."
+    ]
+  },
+  {
+    "class": "EstimatesOfExpenditure",
+    "question_variations": [
+      "So, what's included in those expenditure estimates mentioned in the Indian Constitution?",
+      "Can you simplify the details of those expenditure estimates for me?",
+      "Hey, what's the lowdown on the expenditure estimates as per the Indian Constitution?",
+      "How are the estimates of expenditure determined for different government departments or sectors?",
+      "What are the consequences if the estimates of expenditure exceed the projected budget?",
+      "Are there any provisions for emergency funding or unforeseen expenditures in the estimates of expenditure?",
+      "Do the estimates of expenditure take into account inflation and economic fluctuations?",
+      "How do the estimates of expenditure align with the government's priorities and policies?",
+      "Are there any measures to ensure that the estimates of expenditure are realistic and achievable?",
+      "What role do independent experts or agencies play in validating the estimates of expenditure?"
+    ],
+    "responses": [
+      "As per Article 112(2) of the Indian Constitution, the estimates of expenditure in the annual financial statement must show separately:\n(a) the sums required to meet expenditure described as expenditure charged upon the Consolidated Fund of India, and\n(b) the sums required to meet other proposed expenditures from the Consolidated Fund of India. These estimates must also distinguish expenditure on revenue account from other expenditure.",
+      "The estimates of expenditure are determined through a meticulous process that involves assessing the funding needs of various government departments, agencies, and programs. Inputs from sectoral analysis, program evaluations, and policy priorities are considered to allocate resources effectively and efficiently.",
+      "Exceeding the estimates of expenditure can have significant implications for fiscal management, including budget deficits, increased borrowing, and potential austerity measures to control spending. It may also impact government credibility and investor confidence, leading to higher borrowing costs and economic instability.",
+      "Provisions for emergency funding or unforeseen expenditures are typically included in the budgetary framework to address urgent needs or unexpected contingencies. Contingency funds, reserve allocations, or supplementary budgets may be utilized to finance unforeseen expenses without disrupting overall fiscal plans.",
+      "Yes, the estimates of expenditure take into account inflation, economic fluctuations, and other macroeconomic factors that may impact government spending. Sensitivity analyses, risk assessments, and scenario planning are often conducted to identify potential budgetary risks and mitigate their impact on financial stability.",
+      "The estimates of expenditure are aligned with the government's priorities and policies through strategic planning, policy coordination, and performance monitoring mechanisms. Budget allocations are guided by national development plans, sectoral strategies, and programmatic objectives to achieve desired outcomes and address key challenges.",
+      "Various measures are implemented to ensure that the estimates of expenditure are realistic and achievable, including rigorous budgetary reviews, expenditure controls, and performance monitoring frameworks. Regular evaluations and audits help identify inefficiencies, cost overruns, and areas for improvement in expenditure management.",
+      "Independent experts, agencies, and parliamentary committees play a critical role in validating the estimates of expenditure through financial analysis, performance evaluations, and policy reviews. Their assessments provide valuable insights and recommendations to improve budgetary accuracy, transparency, and accountability."
+    ]
+  },
+  {
+    "class": "ExpenditureChargedOnConsolidatedFund",
+    "question_variations": [
+      "What's the deal with expenses charged on the Consolidated Fund of India as per the Indian Constitution?",
+      "Can you explain those expenses that are charged on the Consolidated Fund of India in simpler terms?",
+      "Hey, what expenses are automatically covered by the Consolidated Fund of India as per the Indian Constitution?",
+      "How do expenditures become eligible to be charged on the Consolidated Fund?",
+      "Are there any provisions for reviewing or revising the list of expenditures charged on the Consolidated Fund?",
+      "What safeguards are in place to prevent misuse or misallocation of funds charged on the Consolidated Fund?",
+      "Do expenditures charged on the Consolidated Fund receive any special treatment during budget allocations?",
+      "How do expenditures charged on the Consolidated Fund contribute to government stability and continuity?",
+      "Are there any constitutional provisions for addressing disputes or controversies related to expenditures charged on the Consolidated Fund?",
+      "What role does parliamentary oversight play in monitoring expenditures charged on the Consolidated Fund?"
+    ],
+    "responses": [
+      "Article 112(3) of the Indian Constitution specifies the following expenditures as charged on the Consolidated Fund of India:\n(a) Emoluments and allowances of the President and related office expenses,\n(b) Salaries and allowances of certain parliamentary officials,\n(c) Debt charges and expenses related to raising loans and servicing debt,\n(d) Pensions and related expenses of judges and other officials, and\n(e) Other expenses declared by the Constitution or Parliament to be charged on the Consolidated Fund of India.",
+      "Expenses charged on the Consolidated Fund of India are those essential for the functioning of the government and the fulfillment of its constitutional obligations. These include salaries and allowances of key officeholders, debt servicing costs, pensions, and other expenditures mandated by the Constitution or authorized by Parliament.",
+      "Expenses automatically covered by the Consolidated Fund of India are those specified in Article 112(3) of the Indian Constitution. These include emoluments and allowances of the President, salaries of parliamentary officials, debt charges, and pensions of judges and other officials. Additionally, Parliament has the authority to designate other expenses as charged on the Consolidated Fund.",
+      "Expenditures become eligible to be charged on the Consolidated Fund through constitutional provisions, parliamentary enactments, or executive decisions. These may include expenditures essential for government operations, debt servicing, statutory payments, or other obligations mandated by law.",
+      "Provisions for reviewing or revising the list of expenditures charged on the Consolidated Fund may be included in legislative frameworks or constitutional amendments. Parliamentary committees, audits, and public consultations may be utilized to assess the necessity, relevance, and appropriateness of existing charges on the Consolidated Fund.",
+      "Safeguards to prevent misuse or misallocation of funds charged on the Consolidated Fund include parliamentary oversight, financial audits, internal controls, and accountability mechanisms. Transparency measures such as public disclosure requirements and regulatory scrutiny help ensure that expenditures are utilized for their intended purposes.",
+      "Expenditures charged on the Consolidated Fund may receive special treatment during budget allocations due to their constitutional or statutory significance. These expenditures are prioritized and safeguarded to ensure government stability, continuity, and compliance with legal obligations.",
+      "Expenditures charged on the Consolidated Fund contribute to government stability and continuity by providing essential resources for the functioning of key institutions, the delivery of public services, and the fulfillment of constitutional duties. They ensure the uninterrupted operation of government functions, regardless of changes in political leadership or budgetary cycles.",
+      "Constitutional provisions for addressing disputes or controversies related to expenditures charged on the Consolidated Fund may include parliamentary inquiries, judicial reviews, or administrative remedies. Parliamentary oversight mechanisms play a crucial role in monitoring expenditure decisions, investigating irregularities, and holding government officials accountable for financial management.",
+      "Parliamentary oversight plays a vital role in monitoring expenditures charged on the Consolidated Fund by scrutinizing budgetary allocations, evaluating spending patterns, and holding government officials accountable for financial decisions. Parliamentary committees, debates, and inquiries provide opportunities for transparency, accountability, and public engagement in financial matters."
+    ]
+  },
+  {
+    "class": "ProcedureForEstimatesInParliament",
+    "question_variations": [
+      "How do they handle those expenditure estimates in Parliament according to the Indian Constitution?",
+      "Can you simplify the parliamentary process for dealing with expenditure estimates as per the Indian Constitution?",
+      "Hey, what's the scoop on the procedure for dealing with expenditure estimates in Parliament according to the Indian Constitution?",
+      "What role do parliamentary committees play in scrutinizing expenditure estimates?",
+      "Are there any opportunities for public participation or input during the parliamentary discussions on expenditure estimates?",
+      "How does the parliamentary procedure for dealing with expenditure estimates ensure transparency and accountability?",
+      "What happens if there is a deadlock or disagreement between the two Houses of Parliament regarding expenditure estimates?",
+      "Are there any provisions for revising or amending expenditure estimates during the parliamentary session?",
+      "How do parliamentary decisions on expenditure estimates impact government operations and financial management?",
+      "What measures are taken to ensure that parliamentary decisions on expenditure estimates are implemented effectively and efficiently?"
+    ],
+    "responses": [
+      "Article 113 of the Indian Constitution outlines the procedure in Parliament regarding estimates of expenditure. Expenditure charged upon the Consolidated Fund of India is not voted upon but can be discussed. Other expenditure estimates are submitted as demands for grants to the House of the People, which can approve or refuse them or assent subject to amendments.",
+      "The parliamentary process for dealing with expenditure estimates involves several stages, including budget presentations, discussions, committee reviews, and voting procedures. Parliamentary committees play a crucial role in scrutinizing expenditure estimates, conducting inquiries, and making recommendations to ensure transparency, accountability, and efficiency in financial management.",
+      "Parliamentary committees play a vital role in scrutinizing expenditure estimates by reviewing budgetary allocations, assessing spending priorities, and evaluating the effectiveness of government programs and policies. Through hearings, inquiries, and reports, these committees provide valuable insights and recommendations to improve budgetary decision-making and oversight mechanisms.",
+      "Yes, there are opportunities for public participation or input during the parliamentary discussions on expenditure estimates. Public consultations, submissions, and hearings may be organized by parliamentary committees to gather feedback, suggestions, and concerns from stakeholders, experts, and the general public. These inputs help inform parliamentary debates and decision-making processes on budgetary matters.",
+      "The parliamentary procedure for dealing with expenditure estimates ensures transparency and accountability through various mechanisms, including public disclosures, parliamentary debates, committee reviews, and voting procedures. These processes allow for thorough scrutiny, discussion, and evaluation of budgetary proposals, enabling stakeholders to assess the rationale, effectiveness, and implications of government spending decisions.",
+      "If there is a deadlock or disagreement between the two Houses of Parliament regarding expenditure estimates, mechanisms such as joint sittings, negotiations, or mediation may be employed to resolve differences and reach consensus. Parliamentary rules and procedures provide frameworks for resolving disputes and ensuring the smooth functioning of legislative processes.",
+      "Provisions for revising or amending expenditure estimates during the parliamentary session may be included in legislative frameworks or parliamentary rules. Supplementary budgets, amendments, or reallocations may be proposed to accommodate changes in funding needs, emerging priorities, or unforeseen circumstances.",
+      "Parliamentary decisions on expenditure estimates impact government operations and financial management by authorizing budgetary allocations, approving spending plans, and setting fiscal priorities. These decisions guide the implementation of government programs, the delivery of public services, and the allocation of resources across various sectors and initiatives.",
+      "Measures to ensure that parliamentary decisions on expenditure estimates are implemented effectively and efficiently include monitoring mechanisms, performance evaluations, and accountability measures. Parliamentary oversight, audits, and reporting requirements help track the implementation of budgetary decisions, assess their impact, and hold government officials accountable for financial management."
+    ]
+  },
+{
+    "class": "StateDefinition",
+    "question_variations": [
+      "What's the deal with 'State' as per the Constitution?",
+      "Could you break down what 'State' means in the Constitution?",
+      "Hey, what's up with that 'State' thing in the Constitution?"
+    ],
+    "responses": [
+      "In Part VI of the Indian Constitution, unless the context otherwise requires, the expression 'State' does not include the State of Jammu and Kashmir."
+    ]
+  },
+  {
+    "class": "ExecutiveChapter",
+    "question_variations": [
+      "Can you simplify the executive part of the Constitution?",
+      "Hey, I'm confused about the executive part, mind breaking it down?",
+      "What's the deal with the executive stuff in the Constitution?"
+    ],
+    "responses": [
+      "Chapter II of Part VI of the Indian Constitution outlines the provisions regarding the executive, particularly focusing on the role of the Governor. It covers aspects such as the appointment, powers, and responsibilities of the Governor, as well as the composition of the Council of Ministers."
+    ]
+  },
+  {
+    "class": "GovernorsOfStates",
+    "question_variations": [
+      "What's the scoop on Governors in the Indian Constitution?",
+      "Could you explain the lowdown on Governors in simple terms?",
+      "Hey, what's the deal with Governors as per the Indian Constitution?"
+    ],
+    "responses": [
+      "Article 153 of the Indian Constitution mandates the appointment of a Governor for each State by the President. It establishes the presence of a Governor in every State, outlining their role as the head of the executive."
+    ]
+  },
+  {
+    "class": "AppointmentOfGovernor",
+    "question_variations": [
+      "Who appoints the Governor according to the Constitution?",
+      "Hey, who's responsible for picking the Governor?",
+      "So, who gets to choose the Governor as per the Constitution?"
+    ],
+    "responses": [
+      "The Governor of a State shall be appointed by the President by warrant under his hand and seal."
+    ]
+  },
+  {
+    "class": "TermOfOfficeOfGovernor",
+    "question_variations": [
+      "How long does a Governor hold office as per the Constitution?",
+      "Hey, what's the deal with the term of office for Governors?",
+      "So, what's the scoop on the Governor's term of office?"
+    ],
+    "responses": [
+      "The Governor shall hold office during the pleasure of the President."
+    ]
+  },
+{
+    "class": "DurationOfStateLegislatures",
+    "question_variations": [
+      "How long does a Legislative Assembly of a State last?",
+      "Hey, what's the duration of a State Legislative Assembly?",
+      "Could you explain the tenure of State Legislatures?",
+      "What's the maximum duration of a State Legislative Assembly?",
+      "How long can a State Legislative Assembly continue before dissolution?"
+    ],
+    "responses": [
+      "According to Article 172 of the Indian Constitution, every Legislative Assembly of every State, unless dissolved sooner, continues for five years from the date appointed for its first meeting. After this period, it dissolves, triggering the need for elections. However, during a Proclamation of Emergency, Parliament can extend this period by law for up to one year at a time, not exceeding six months after the Emergency ends."
+    ]
+  },
+  {
+    "class": "QualificationForMembershipOfStateLegislature",
+    "question_variations": [
+      "What are the qualifications for becoming a member of a State Legislature?",
+      "Hey, what does it take to become a member of a State Legislature?",
+      "Could you explain the eligibility criteria for State Legislature membership?",
+      "What are the requirements for someone to become a member of a State Legislature?",
+      "What qualifications does one need to join a State Legislature?"
+    ],
+    "responses": [
+      "To be chosen as a member of a State Legislature, a person must: (a) be a citizen of India, (b) make and subscribe an oath or affirmation in front of an authorized person, (c) be at least 25 years old for the Legislative Assembly or 30 years old for the Legislative Council, and (d) possess any other qualifications prescribed by Parliament."
+    ]
+  },
+  {
+    "class": "SessionsOfStateLegislature",
+    "question_variations": [
+      "How are sessions of a State Legislature conducted?",
+      "Hey, what's the procedure for State Legislature sessions?",
+      "Could you explain how State Legislature sessions work?",
+      "What's the schedule like for State Legislature sessions?",
+      "How are State Legislature sessions organized?"
+    ],
+    "responses": [
+      "The Governor summons the House or each House of the State Legislature to meet at a time and place they deem fit. However, there shouldn't be more than a six-month gap between sessions. The Governor can prorogue or dissolve the Legislative Assembly."
+    ]
+  },
+  {
+    "class": "RightOfGovernorToAddressStateLegislature",
+    "question_variations": [
+      "What's the Governor's right to address the State Legislature?",
+      "Hey, does the Governor have the power to address the State Legislature?",
+      "Could you explain the Governor's role in addressing the State Legislature?",
+      "Can the Governor speak in the State Legislature?",
+      "Does the Governor have a say in the State Legislature?"
+    ],
+    "responses": [
+      "The Governor can address the Legislative Assembly or, in States with a Legislative Council, either House or both assembled together. They can also send messages to the Legislature, which must be considered promptly."
+    ]
+  },
+  {
+    "class": "SpecialAddressByGovernor",
+    "question_variations": [
+      "What happens during a special address by the Governor?",
+      "Hey, what's the deal with the Governor's special address to the Legislature?",
+      "Could you explain what occurs during the Governor's special address?",
+      "Why does the Governor give a special address to the Legislature?",
+      "What topics does the Governor cover in the special address to the Legislature?"
+    ],
+    "responses": [
+      "At the beginning of the first session after a general election or each year, the Governor addresses the Legislative Assembly or both Houses assembled together, informing them of the summons' causes. Time for discussion on the matters raised is allotted based on House rules."
+    ]
+  },
+  {
+    "class": "RightsOfMinistersAndAdvocateGeneral",
+    "question_variations": [
+      "What rights do Ministers and the Advocate-General have in the State Legislature?",
+      "Hey, what can Ministers and the Advocate-General do in the State Legislature?",
+      "Could you explain the privileges of Ministers and the Advocate-General in the State Legislature?",
+      "Do Ministers and the Advocate-General have any special powers in the State Legislature?",
+      "What roles do Ministers and the Advocate-General play in the State Legislature?"
+    ],
+    "responses": [
+      "Ministers and the Advocate-General can speak and participate in the proceedings of the Legislative Assembly or both Houses in States with a Legislative Council. They can also take part in any committee of the Legislature they're named members of, but they can't vote by virtue of this right."
+    ]
+  },
+  {
+    "class": "SpeakerAndDeputySpeakerOfLegislativeAssembly",
+    "question_variations": [
+      "What's the role of the Speaker and Deputy Speaker in the Legislative Assembly?",
+      "Hey, what do the Speaker and Deputy Speaker do in the Legislative Assembly?",
+      "Could you explain the functions of the Speaker and Deputy Speaker in the Legislative Assembly?",
+      "How are the Speaker and Deputy Speaker selected in the Legislative Assembly?",
+      "What responsibilities does the Speaker and Deputy Speaker have in the Legislative Assembly?"
+    ],
+    "responses": [
+      "The Legislative Assembly selects a Speaker and Deputy Speaker, who preside over its sessions. If either position becomes vacant, the Assembly chooses a replacement. The Speaker or Deputy Speaker vacates office if they cease to be Assembly members or if removed by a majority resolution, with a 14-day notice requirement."
+    ]
+  },
+  {
+    "class": "VacationAndResignationOfSpeakerAndDeputySpeaker",
+    "question_variations": [
+      "How does one vacate or resign from the Speaker or Deputy Speaker position?",
+      "Hey, what's the process for vacating or resigning from the Speaker or Deputy Speaker position?",
+      "Could you explain how one can leave the Speaker or Deputy Speaker position?",
+      "What are the conditions for resignation from the Speaker or Deputy Speaker position?",
+      "When does a Speaker or Deputy Speaker need to step down?"
+    ],
+    "responses": [
+      "A Speaker or Deputy Speaker vacates office if they cease to be Assembly members, resign by writing to the Deputy Speaker (Speaker) or Speaker (Deputy Speaker), or are removed by an Assembly majority resolution with a 14-day notice. The Speaker doesn't vacate office after Assembly dissolution until right before its first post-dissolution meeting."
+    ]
+  },
+  {
+    "class": "PowerOfDeputySpeakerToActAsSpeaker",
+    "question_variations": [
+      "What powers does the Deputy Speaker have when acting as Speaker?",
+      "Hey, what can the Deputy Speaker do when acting as Speaker?",
+      "Could you explain the Deputy Speaker's authority when filling in for the Speaker?",
+      "How does the Deputy Speaker take charge in the absence of the Speaker?",
+      "What responsibilities does the Deputy Speaker have when substituting for the Speaker?"
+    ],
+    "responses": [
+      "When the Speaker position is vacant, the Deputy Speaker fills in, and if both positions are vacant, a member appointed by the Governor acts as Speaker. During the Speaker's absence from a session, the Deputy Speaker presides or, if absent, someone designated by House rules or the Assembly."
+    ]
+  },
+  {
+    "class": "SalariesAndAllowancesOfSpeakerDeputySpeakerChairmanDeputyChairman",
+    "question_variations": [
+      "How are the salaries and allowances determined for the Speaker, Deputy Speaker, Chairman, and Deputy Chairman?",
+      "Hey, who decides the salaries and allowances for the Speaker, Deputy Speaker, Chairman, and Deputy Chairman?",
+      "Could you explain how the salaries and allowances for the Speaker, Deputy Speaker, Chairman, and Deputy Chairman are set?",
+      "Who sets the pay and benefits for the Speaker, Deputy Speaker, Chairman, and Deputy Chairman?",
+      "What factors determine the salaries and allowances for the Speaker, Deputy Speaker, Chairman, and Deputy Chairman?"
+    ],
+    "responses": [
+      "The Legislature of a State determines the salaries and allowances for the Speaker, Deputy Speaker, Chairman, and Deputy Chairman through law. Until such laws are enacted, the amounts specified in the Second Schedule apply."
+    ]
+  },
+  {
+    "class": "SecretariatOfStateLegislature",
+    "question_variations": [
+      "What's the role of the State Legislature's secretariat?",
+      "Hey, what does the State Legislature's secretariat do?",
+      "Could you explain the function of the State Legislature's secretariat?",
+      "How does the State Legislature's secretariat assist in legislative matters?",
+      "What services does the State Legislature's secretariat provide?"
+    ],
+    "responses": [
+      "Each House of a State Legislature has its own secretarial staff. However, in States with a Legislative Council, common posts for both Houses can be created. The recruitment and service conditions for these staff members are regulated by State Legislature laws or rules made by the Governor, in consultation with the Speaker or Chairman, until Legislature laws are enacted."
+    ]
+  },
+  {
+    "class": "OathOrAffirmationByMembers",
+    "question_variations": [
+      "What's the requirement for members of a State Legislature regarding oaths or affirmations?",
+      "Hey, what oath or affirmation do members of a State Legislature have to make?",
+      "Could you explain the oath or affirmation process for members of a State Legislature?",
+      "What pledges do members of a State Legislature need to make before taking office?",
+      "Why do members of a State Legislature have to take an oath or affirmation?"
+    ],
+    "responses": [
+      "Before taking their seats, every member of a State Legislative Assembly or Legislative Council must make and subscribe an oath or affirmation before the Governor or an authorized person, following the form set out in the Third Schedule of the Indian Constitution."
+    ]
+  },
+  {
+    "class": "VotingInHousesAndQuorum",
+    "question_variations": [
+      "How does voting work in State Legislature Houses, and what's the quorum requirement?",
+      "Hey, what's the voting process in State Legislature Houses, and what's the quorum?",
+      "Could you explain the voting system and quorum in State Legislature Houses?",
+      "What's the procedure for voting in State Legislature Houses, and how many members are needed for a quorum?",
+      "How are decisions made in State Legislature Houses, and what's the minimum number of members required for a quorum?"
+    ],
+    "responses": [
+      "Decisions in a State Legislature House are typically made by a majority vote of present and voting members, excluding the Speaker or Chairman. The Speaker or Chairman doesn't vote initially but casts a deciding vote in case of a tie. A House can proceed with its business despite vacancies, and its proceedings remain valid even if it's later discovered that an ineligible person participated. Until Legislature laws set new rules, the quorum is either ten members or one-tenth of the total members, whichever is greater."
+    ]
+  },
+  {
+    "class": "VacationOfSeats",
+    "question_variations": [
+      "How does one vacate a seat in a State Legislature?",
+      "Hey, what's the process for vacating a seat in a State Legislature?",
+      "Could you explain how seats are vacated in a State Legislature?",
+      "What are the conditions for leaving a seat in a State Legislature?",
+      "When does one need to step down from a seat in a State Legislature?"
+    ],
+    "responses": [
+      "No person can be a member of both Houses of a State Legislature. The State Legislature enacts laws for a person chosen as a member of both Houses to vacate one seat. This provision ensures a member holds only one seat at a time."
+    ]
+  }
+]
+}
